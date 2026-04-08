@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Pallet_DoberkinRation.label>palette de rations</Pallet_DoberkinRation.label>
+    <Pallet_Guncase.label>caisse d'arme</Pallet_Guncase.label>
+    <Pallet_Guncase.description>Un conteneur rectangulaire qui contient un seul cluster DKF. Peut être ouvert et réclamer l'arme à l'intérieur.</Pallet_Guncase.description>
+    <Pallet_Supply.description>Une palette contenant des charges de ravitaillement essentiel nécessaires pour la colonisation basique.</Pallet_Supply.description>
+    <Pallet_Supply_Chemfuel.label>palette de carburant chimique</Pallet_Supply_Chemfuel.label>
+</LanguageData>

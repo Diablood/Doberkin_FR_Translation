@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Cook_DF_Ration.label>cuisiner une ration de viande DF</Cook_DF_Ration.label>
+    <Cook_DF_Ration.jobString>Préparation d'une ration de viande.</Cook_DF_Ration.jobString>
+    <Cook_DF_Ration_Bulk.label>cuisiner des rations de viande DF</Cook_DF_Ration_Bulk.label>
+    <Cook_DF_Ration_Bulk.jobString>Préparation de rations de viande.</Cook_DF_Ration_Bulk.jobString>
+</LanguageData>

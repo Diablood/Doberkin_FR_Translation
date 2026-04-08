@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <DB_Citizen.title>citoyen de la Fédération doberman</DB_Citizen.title>
+    <DB_Citizen.titleShort>citoyen</DB_Citizen.titleShort>
+    <DB_ExGangMember.title>ex-membre de gang</DB_ExGangMember.title>
+    <DB_ExGangMember.titleShort>errant</DB_ExGangMember.titleShort>
+    <DB_ExGangLeader.title>ex-chef de gang</DB_ExGangLeader.title>
+    <DB_Freelancer.title>indépendant</DB_Freelancer.title>
+    <DB_Freelancer.titleShort>indépendant</DB_Freelancer.titleShort>
+    <DB_ConstructionWorker.title>ouvrier du bâtiment</DB_ConstructionWorker.title>
+    <DB_ConstructionWorker.titleShort>bâtisseur</DB_ConstructionWorker.titleShort>
+    <DB_StreetThug.title>voyou des rues</DB_StreetThug.title>
+    <DB_StreetThug.titleShort>voyou</DB_StreetThug.titleShort>
+    <DB_StreetMercenary.title>mercenaire de rue</DB_StreetMercenary.title>
+    <DB_StreetMercenary.titleShort>mercenaire</DB_StreetMercenary.titleShort>
+    <DB_FactoryNightWorker.title>ouvrier de nuit d'usine</DB_FactoryNightWorker.title>
+    <DB_FactoryNightWorker.titleShort>ouvrier</DB_FactoryNightWorker.titleShort>
+    <DB_ZenusRancher.title>éleveur zenus</DB_ZenusRancher.title>
+    <DB_ZenusRancher.titleShort>éleveur</DB_ZenusRancher.titleShort>
+    <DB_DobermanTrainer.title>dresseur de dobermans</DB_DobermanTrainer.title>
+    <DB_DobermanTrainer.titleShort>dresseur canin</DB_DobermanTrainer.titleShort>
+    <DB_VeteranSoldier.title>vétéran soldat</DB_VeteranSoldier.title>
+    <DB_VeteranSoldier.titleShort>soldat</DB_VeteranSoldier.titleShort>
+    <DB_VeteranSoldier_Heavy.title>soldat lourd</DB_VeteranSoldier_Heavy.title>
+    <DB_VeteranSoldier_Heavy.titleShort>lourd</DB_VeteranSoldier_Heavy.titleShort>
+    <DB_VeteranSoldier_Sniper.title>tireur vétéran</DB_VeteranSoldier_Sniper.title>
+    <DB_VeteranSoldier_Sniper.titleShort>tireur</DB_VeteranSoldier_Sniper.titleShort>
+    <DB_VeteranSoldier_Engineer.title>ingénieur de combat vétéran</DB_VeteranSoldier_Engineer.title>
+    <DB_VeteranSoldier_Engineer.titleShort>ingénieur</DB_VeteranSoldier_Engineer.titleShort>
+    <DB_VeteranSoldier_Medic.title>médecin de combat vétéran</DB_VeteranSoldier_Medic.title>
+    <DB_VeteranSoldier_Medic.titleShort>médecin</DB_VeteranSoldier_Medic.titleShort>
+    <DB_VeteranSoldier_Melee.title>combattant CQC vétéran</DB_VeteranSoldier_Melee.title>
+    <DB_VeteranSoldier_Melee.titleShort>mélée</DB_VeteranSoldier_Melee.titleShort>
+    <DB_EliteOfficer.title>officier d'élite</DB_EliteOfficer.title>
+    <DB_EliteOfficer.titleShort>officier</DB_EliteOfficer.titleShort>
+    <DB_HighCommander.title>haut commandant</DB_HighCommander.title>
+    <DB_HighCommander.titleShort>commandant</DB_HighCommander.titleShort>
+</LanguageData>

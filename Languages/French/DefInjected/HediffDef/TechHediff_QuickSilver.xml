@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <QuickSilverImplant.label>Implant Quick Silver GEN 1</QuickSilverImplant.label>
+    <QuickSilverImplant_Parry.label>Implant Quick Silver GEN 2</QuickSilverImplant_Parry.label>
+    <Parry_Cooldown_Implant.label>Recharge de parade</Parry_Cooldown_Implant.label>
+    <Parry_Cooldown_Implant.description>recharge de parade</Parry_Cooldown_Implant.description>
+    <Parry_Windows_Implant.label>fenêtres de parade</Parry_Windows_Implant.label>
+    <Parry_Windows_Implant.description>Cet état permet au pion de parer.</Parry_Windows_Implant.description>
+    <PoiseBreak_Implant.label>Brise-garde</PoiseBreak_Implant.label>
+    <PoiseBreak_Implant.description>Effet infligeant une condition handicapante à l'attaquant après que ses attaques ont été parées.</PoiseBreak_Implant.description>
+</LanguageData>

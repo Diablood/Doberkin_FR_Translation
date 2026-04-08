@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Doberkin_MultiAnalyzer.label>Multi-analyseur DF</Doberkin_MultiAnalyzer.label>
+    <Prototype_ChemfuelGenerator.label>générateur industriel prototype</Prototype_ChemfuelGenerator.label>
+    <Prototype_ChemfuelGenerator.description>Un générateur de chemfuel prototype qui a servi de conception initiale pour les générateurs industriels plus rationalisés utilisés par la Fédération doberman.</Prototype_ChemfuelGenerator.description>
+    <AutoRationPrinter.label>imprimante automatique de rations</AutoRationPrinter.label>
+</LanguageData>

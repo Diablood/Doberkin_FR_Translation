@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Gun_DKF_HMG.label>Mitrailleuse lourde intelligente DKF</Gun_DKF_HMG.label>
+    <Bullet_HMG.label>Balle de mitrailleuse lourde DKF</Bullet_HMG.label>
+    <Gun_DEF_Lamcer.label>DEF Lancier</Gun_DEF_Lamcer.label>
+    <Bullet_Lancer.label>Tir laser DEF</Bullet_Lancer.label>
+    <Gun_DEF_RedGlare.label>DEF Reflet rouge</Gun_DEF_RedGlare.label>
+    <Bullet_RedGlare.label>Tir reflet rouge DEF</Bullet_RedGlare.label>
+</LanguageData>

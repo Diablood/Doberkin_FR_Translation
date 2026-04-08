@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>[FR] BM's Races: Doberkins</name>
+    <packageId>diablood.doberkin.fr</packageId>
+    <author>Diablood</author>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <description>Traduction française partielle pour BM's Races: Doberkins. Cette version traduit principalement les noms, intitulés, recherches, scénarios et une partie des descriptions courtes.</description>
+    <modDependencies>
+        <li>
+            <packageId>blackmarket420.xenotype.doberkin</packageId>
+            <displayName>BM's Races: Doberkins</displayName>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>blackmarket420.xenotype.doberkin</li>
+    </loadAfter>
+</ModMetaData>

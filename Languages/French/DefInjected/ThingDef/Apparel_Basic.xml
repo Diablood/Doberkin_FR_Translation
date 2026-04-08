@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Doberkin_Apparel_Jumpsuit.label>Combinaison doberkin</Doberkin_Apparel_Jumpsuit.label>
+    <Doberkin_Apparel_Jumpsuit.description>Une combinaison standard portée par les doberkins, offre une protection minimale mais augmente légèrement la vitesse de déplacement grâce à des micro-rotors.</Doberkin_Apparel_Jumpsuit.description>
+    <Doberkin_Apparel_TacticalVest.label>Gilet doberkin</Doberkin_Apparel_TacticalVest.label>
+    <Doberkin_Apparel_BallisticHelmet.label>Casque doberkin</Doberkin_Apparel_BallisticHelmet.label>
+    <Doberkin_Apparel_BallisticHelmet_Facemask.label>Casque doberkin T1</Doberkin_Apparel_BallisticHelmet_Facemask.label>
+    <Doberkin_Apparel_BallisticHelmet_Facemask.description>Une variante du casque balistique doberkin, qui ajoute un masque facial fonctionnel offrant une résistance minimale aux toxines.</Doberkin_Apparel_BallisticHelmet_Facemask.description>
+    <Doberkin_Apparel_BallisticHelmet_Melee.label>Casque doberkin T2</Doberkin_Apparel_BallisticHelmet_Melee.label>
+    <Doberkin_Apparel_BallisticHelmet_Melee.description>Une variante du casque balistique doberkin, désormais avec un masque facial renforcé offrant une meilleure protection contre les dégâts contondants.</Doberkin_Apparel_BallisticHelmet_Melee.description>
+    <Doberkin_Apparel_Balaclava.label>Cagoule doberkin</Doberkin_Apparel_Balaclava.label>
+    <Doberkin_Apparel_Backpack.label>Sac à dos doberkin</Doberkin_Apparel_Backpack.label>
+    <Doberkin_Apparel_Backpack_Small.label>Sac à dos doberkin S</Doberkin_Apparel_Backpack_Small.label>
+    <Doberkin_Apparel_Waistpack.label>Pochette de ceinture doberkin</Doberkin_Apparel_Waistpack.label>
+    <Doberkin_GlovesReinforced.label>gants renforcés</Doberkin_GlovesReinforced.label>
+    <Doberkin_GlovesReinforced.description>Une paire de gants renforcés, couramment portés par les mercenaires et ceux qui servent dans les forces militaires.</Doberkin_GlovesReinforced.description>
+    <Doberkin_BootsReinforced.label>bottes renforcées</Doberkin_BootsReinforced.label>
+    <Doberkin_BootsReinforced.description>Une paire de bottes renforcées, couramment portées par les mercenaires et ceux qui servent dans les forces militaires.</Doberkin_BootsReinforced.description>
+</LanguageData>

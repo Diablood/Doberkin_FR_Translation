@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Damage_Lancer.label>Brûlure de lancier</Damage_Lancer.label>
+    <Damage_HMG.label>Déchiquetage HMG</Damage_HMG.label>
+    <Damage_RedGlare.label>Brûlure reflet rouge</Damage_RedGlare.label>
+    <Damage_Energy.label>Brûlure énergétique</Damage_Energy.label>
+    <Damage_ThermoBlade.label>Brûlure thermique</Damage_ThermoBlade.label>
+    <KnockBackDamage_ImpactHammer.label>force d'impact</KnockBackDamage_ImpactHammer.label>
+</LanguageData>

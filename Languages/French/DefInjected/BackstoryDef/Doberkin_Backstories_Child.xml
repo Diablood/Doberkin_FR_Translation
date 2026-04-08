@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <DB_SlumPup.title>habitant des bas-fonds</DB_SlumPup.title>
+    <DB_SlumPup.titleShort>né des bas-fonds</DB_SlumPup.titleShort>
+    <DB_AcademyStudent.title>étudiant d'académie</DB_AcademyStudent.title>
+    <DB_AcademyStudent.titleShort>étudiant</DB_AcademyStudent.titleShort>
+    <DB_StreetKid.title>enfant des rues</DB_StreetKid.title>
+    <DB_StreetKid.titleShort>gosse des rues</DB_StreetKid.titleShort>
+    <DB_StreetMedic.title>médecin des rues</DB_StreetMedic.title>
+    <DB_StreetMedic.titleShort>médecin des rues</DB_StreetMedic.titleShort>
+    <DB_ChefApprentice.title>apprenti cuisinier</DB_ChefApprentice.title>
+    <DB_ChefApprentice.titleShort>petit cuisinier</DB_ChefApprentice.titleShort>
+    <DB_JuniorCarpenter.title>jeune charpentier</DB_JuniorCarpenter.title>
+    <DB_JuniorCarpenter.titleShort>petit charpentier</DB_JuniorCarpenter.titleShort>
+    <DB_YoungButcher.title>jeune boucher</DB_YoungButcher.title>
+    <DB_YoungButcher.titleShort>jeune boucher</DB_YoungButcher.titleShort>
+    <DB_YoungCitizen.title>jeune citoyen</DB_YoungCitizen.title>
+    <DB_YoungCitizen.titleShort>citoyen</DB_YoungCitizen.titleShort>
+    <DB_YoungLaborer.title>jeune ouvrier</DB_YoungLaborer.title>
+    <DB_YoungLaborer.titleShort>ouvrier</DB_YoungLaborer.titleShort>
+    <DB_YoungCorpseCollector.title>jeune ramasseur de cadavres</DB_YoungCorpseCollector.title>
+    <DB_YoungCorpseCollector.titleShort>ramasseur de cadavres</DB_YoungCorpseCollector.titleShort>
+    <DB_YoungCoder.title>jeune programmeur</DB_YoungCoder.title>
+    <DB_YoungCoder.titleShort>jeune programmeur</DB_YoungCoder.titleShort>
+    <DB_WastelandNomad.title>nomade des terres désolées</DB_WastelandNomad.title>
+    <DB_WastelandNomad.titleShort>nomade</DB_WastelandNomad.titleShort>
+    <DB_Cadet.title>jeune cadet</DB_Cadet.title>
+    <DB_AcademyStudentElite.title>étudiant d'académie d'élite</DB_AcademyStudentElite.title>
+    <DB_AcademyStudentElite.titleShort>étudiant d'élite</DB_AcademyStudentElite.titleShort>
+    <DB_AspiringOfficer.title>officiers aspirants</DB_AspiringOfficer.title>
+    <DB_AspiringOfficer.titleShort>jeune officier</DB_AspiringOfficer.titleShort>
+    <DB_RookieOfficer.title>officiers novices</DB_RookieOfficer.title>
+    <DB_RookieOfficer.titleShort>officier débutant</DB_RookieOfficer.titleShort>
+</LanguageData>

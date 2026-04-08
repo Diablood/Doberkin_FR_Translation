@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Bullet_Reprimand.label>balle de DKF Reprimand</Bullet_Reprimand.label>
+    <Bullet_Cluster.label>balle de DKF Cluster</Bullet_Cluster.label>
+    <Bullet_ComradeArms.label>balle de DKF Comrade Arms</Bullet_ComradeArms.label>
+    <Bullet_Breaker.label>balle de DKF Breaker</Bullet_Breaker.label>
+    <Bullet_Mauler.label>balle de DKF Mauler</Bullet_Mauler.label>
+    <Gun_DKF_AT_Rifle.label>Fusil antichar DKF</Gun_DKF_AT_Rifle.label>
+    <Bullet_AT_Rifle.label>fusil antichar DKF</Bullet_AT_Rifle.label>
+</LanguageData>

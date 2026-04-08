@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Doberkin_Head_Common.label>tête de doberkin</Doberkin_Head_Common.label>
+    <Doberkin_Head_Common.description>Les porteurs de ce gène ont une tête de doberkin commun.</Doberkin_Head_Common.description>
+    <Doberkin_HairOnly.label>cheveux doberkin</Doberkin_HairOnly.label>
+    <Doberkin_HairOnly.description>Les porteurs de ce gène développent une chevelure unique de doberkin.</Doberkin_HairOnly.description>
+    <Doberkin_Ears.label>oreilles de doberkin</Doberkin_Ears.label>
+    <Doberkin_Ears.description>Les porteurs de ce gène développent des oreilles pointues de doberkin.</Doberkin_Ears.description>
+    <Doberkin_Tail.label>queue de doberkin</Doberkin_Tail.label>
+    <Doberkin_Tail.description>Les porteurs de ce gène développent une petite queue de doberman.</Doberkin_Tail.description>
+    <Doberkin_Eyebrows.label>sourcils de doberkin</Doberkin_Eyebrows.label>
+    <Doberkin_Eyebrows.description>Les porteurs de ce gène développent des sourcils de doberkin.</Doberkin_Eyebrows.description>
+    <Doberkin_DarkSkin.label>peau sombre</Doberkin_DarkSkin.label>
+    <Doberkin_DarkSkin.description>Les porteurs de ce gène produisent un pigment qui donne à leur peau une teinte brun sombre.</Doberkin_DarkSkin.description>
+    <Doberkin_DarkHair.label>couleur de cheveux doberkin</Doberkin_DarkHair.label>
+    <Doberkin_AmberEyes.label>yeux ambrés</Doberkin_AmberEyes.label>
+    <Doberkin_AmberEyes.description>Les porteurs de ce gène possèdent les yeux ambrés des doberkins communs.</Doberkin_AmberEyes.description>
+    <Doberkin_IndomitableWill.label>volonté indomptable</Doberkin_IndomitableWill.label>
+    <Doberkin_NaturalSoldier.label>soldat naturel</Doberkin_NaturalSoldier.label>
+    <Doberkin_NaturalEliteSoldier.label>soldat d'élite naturel</Doberkin_NaturalEliteSoldier.label>
+    <Doberkin_CrimsonEyes.label>yeux cramoisis</Doberkin_CrimsonEyes.label>
+    <Doberkin_CrimsonEyes.description>Les porteurs de ce gène possèdent les yeux cramoisis des alpha doberkins.</Doberkin_CrimsonEyes.description>
+    <Doberkin_AlphaHowl.label>hurlement alpha</Doberkin_AlphaHowl.label>
+    <Doberkin_AlphaHowl.description>Le porteur de ce gène peut pousser un hurlement revigorant.</Doberkin_AlphaHowl.description>
+    <GeneticMetabolismControl.label>métabolisme naturel</GeneticMetabolismControl.label>
+    <GeneticMetabolismControl.description>Les porteurs de ce gène naissent avec un contrôle métabolique optimisé, ce qui améliore la qualité génétique et métabolique globale.</GeneticMetabolismControl.description>
+    <Doberkin_DoberAffection.label>Affection K9</Doberkin_DoberAffection.label>
+    <Doberkin_Pureblood.label>Sang-pur</Doberkin_Pureblood.label>
+    <Doberkin_VoiceDogz.label>voix canine</Doberkin_VoiceDogz.label>
+    <Doberkin_VoiceDogz.description>Les porteurs ont une voix aboyante semblable à celle d'un chien.</Doberkin_VoiceDogz.description>
+</LanguageData>

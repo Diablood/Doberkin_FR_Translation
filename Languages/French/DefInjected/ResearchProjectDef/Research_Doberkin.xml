@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Doberkin_BasicProtectives.label>protections basiques</Doberkin_BasicProtectives.label>
+    <Doberkin_BasicProtectives.description>Apprend à fabriquer l'équipement tactique basique porté par les doberkins.</Doberkin_BasicProtectives.description>
+    <Doberkin_CivilianApparels.label>vêtements civils</Doberkin_CivilianApparels.label>
+    <Doberkin_CivilianApparels.description>Apprend à fabriquer certains vêtements basiques portés par la majorité des doberkins de la Fédération doberman.</Doberkin_CivilianApparels.description>
+    <Doberkin_BasicKinetics.label>armes balistiques basiques</Doberkin_BasicKinetics.label>
+    <Doberkin_BasicKinetics.description>Apprend à fabriquer des armes à feu balistiques basiques, couramment utilisées par l'armée doberkin.</Doberkin_BasicKinetics.description>
+    <Doberkin_BasicMelee.label>armes de mélée basiques</Doberkin_BasicMelee.label>
+    <Doberkin_BasicMelee.description>Apprend à fabriquer des armes de mélée basiques, couramment utilisées par l'armée doberkin.</Doberkin_BasicMelee.description>
+    <Doberkin_Ration.label>Ration de viande DF</Doberkin_Ration.label>
+    <Doberkin_Ration.description>Apprend à cuisiner des rations de viande DF, aliment de base de la Fédération doberman.</Doberkin_Ration.description>
+    <Doberkin_AdvancedVisors.description>Apprend à fabriquer une variété de lunettes de combat capables de changer l'issue d'une bataille.</Doberkin_AdvancedVisors.description>
+    <Doberkin_AdvasncedKinetics.label>armes balistiques avancées</Doberkin_AdvasncedKinetics.label>
+    <Doberkin_AdvasncedKinetics.description>Apprend à fabriquer des armes à feu balistiques avancées, couramment utilisées par les opérateurs doberkins d'élite.</Doberkin_AdvasncedKinetics.description>
+    <Doberkin_AdvancedMelee.label>armes de mélée avancées</Doberkin_AdvancedMelee.label>
+    <Doberkin_AdvancedMelee.description>Apprend à fabriquer des armes de mélée avancées, couramment utilisées par les opérateurs doberkins d'élite.</Doberkin_AdvancedMelee.description>
+    <Doberkin_AdvancedProtectives.label>protections avancées</Doberkin_AdvancedProtectives.label>
+    <Doberkin_AdvancedProtectives.description>Apprend à fabriquer l'equipment tactique avancé porté par les doberkins d'élite.</Doberkin_AdvancedProtectives.description>
+    <Doberkin_AV.label>véhicule aérien</Doberkin_AV.label>
+    <Doberkin_AV.description>Apprend à construire un véhicule de transport sol-air efficace, l'AV.</Doberkin_AV.description>
+    <Doberkin_ShieldCommander.label>équipement de commandant bouclier</Doberkin_ShieldCommander.label>
+    <Doberkin_ShieldCommander.description>Apprend à fabriquer l'équipement d'armure assistée utilisée par les redoutés commandants boucliers.</Doberkin_ShieldCommander.description>
+    <Doberkin_PowerArmor.label>équipement d'armure assistée doberkin</Doberkin_PowerArmor.label>
+    <Doberkin_PowerArmor.description>Apprend à fabriquer l'équipement d'armure assistée utilisée par la division spatiale DF.</Doberkin_PowerArmor.description>
+    <Doberkin_EnergyWeapons.label>Armes énergétiques</Doberkin_EnergyWeapons.label>
+    <Doberkin_EnergyWeapons.description>Apprend à fabriquer de puissantes armes énergétiques.</Doberkin_EnergyWeapons.description>
+    <Doberkin_ShieldCommander_Weapons.label>armes de commandant bouclier</Doberkin_ShieldCommander_Weapons.label>
+    <Doberkin_ShieldCommander_Weapons.description>Apprend à fabriquer les armes exclusives utilisées par les commandants boucliers.</Doberkin_ShieldCommander_Weapons.description>
+    <Doberkin_HighCommander.label>équipement de haut commandant</Doberkin_HighCommander.label>
+    <Doberkin_HighCommander.description>Apprend à fabriquer l'équipement utilisée par les respectés hauts commandants.</Doberkin_HighCommander.description>
+    <Doberkin_QuickSilverImplant.label>implant Quick Silver</Doberkin_QuickSilverImplant.label>
+    <Doberkin_QuickSilverImplant.description>Apprend à fabriquer des implants permettant des déplacements instantanés.</Doberkin_QuickSilverImplant.description>
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <DoberProtectgear_Buff.label>Bonus de commandant bouclier</DoberProtectgear_Buff.label>
+    <DogCollar.label>collier pour chien</DogCollar.label>
+    <DogCollar.description>Un collier pour chien qui s'ajuste bien autour du cou.</DogCollar.description>
+    <Doberkin_AlphaHowl_Hediff.label>Aura alpha</Doberkin_AlphaHowl_Hediff.label>
+    <Doberkin_AlphaHowl_Hediff.description>Une aura revigorante émise après un puissant hurlement.</Doberkin_AlphaHowl_Hediff.description>
+    <Doberkin_AlphaHowl_CommonBuff.label>Boost d'aura alpha</Doberkin_AlphaHowl_CommonBuff.label>
+    <Doberkin_AlphaHowl_CommonBuff.description>Un bonus spécial invoqué par un alpha doberkin.</Doberkin_AlphaHowl_CommonBuff.description>
+    <NeuroDegradation.label>dégradation neuronale</NeuroDegradation.label>
+    <NeuroDegradation.labelNoun>une maladie neurale</NeuroDegradation.labelNoun>
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Melee_DMW_Katana.description>Une autre arme du vieux monde, maintenant améliorée avec une meilleure prise pour une meilleure manipulation et avec un tranchant de lame fait de plasteel.</Melee_DMW_Katana.description>
+    <Melee_DMW_Machete.label>DMW Machette</Melee_DMW_Machete.label>
+    <Melee_DMW_Machete.description>Une autre arme du vieux monde. Elle était destinée à être utilisée pour dégager les mauvaises herbes et les arbres envahissants, maintenant utilisée pour couper les têtes des ennemis.</Melee_DMW_Machete.description>
+    <Melee_DMW_ImpactHammer.label>DMW Marteau d'impact</Melee_DMW_ImpactHammer.label>
+    <Melee_DMW_ThermoSword.label>DMW Épée thermique</Melee_DMW_ThermoSword.label>
+</LanguageData>
