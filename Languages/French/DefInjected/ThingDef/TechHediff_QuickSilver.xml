@@ -1,5 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <QuickSilverImplant.label>Implant spinal QS GEN 1</QuickSilverImplant.label>
+    <QuickSilverImplant.description>Un implant spinal de pointe capable d’accorder à son hôte des mouvements quasi instantanés.
+
+Un implant aussi sophistiqué est surtout utilisé par les combattants vétérans de la Fédération doberman.</QuickSilverImplant.description>
+    <InstallQuickSilverImplant.label>Installer un implant Quick Silver</InstallQuickSilverImplant.label>
+    <InstallQuickSilverImplant.description>Installer un implant Quick Silver.</InstallQuickSilverImplant.description>
+    <InstallQuickSilverImplant.jobString>Installation de l’implant Quick Silver.</InstallQuickSilverImplant.jobString>
     <QuickSilverImplant_Parry.label>Implant spinal QS GEN 2</QuickSilverImplant_Parry.label>
+    <QuickSilverImplant_Parry.description>Une version améliorée de l’implant Quick Silver, offrant des performances encore supérieures.</QuickSilverImplant_Parry.description>
+    <InstallQuickSilverImplant_Parry.label>Installer un implant Quick Silver GEN 2</InstallQuickSilverImplant_Parry.label>
+    <InstallQuickSilverImplant_Parry.description>Installer un implant Quick Silver GEN 2.</InstallQuickSilverImplant_Parry.description>
+    <InstallQuickSilverImplant_Parry.jobString>Installation de l’implant Quick Silver GEN 2.</InstallQuickSilverImplant_Parry.jobString>
 </LanguageData>

@@ -5,6 +5,9 @@
     <DB_ExGangMember.title>ex-membre de gang</DB_ExGangMember.title>
     <DB_ExGangMember.titleShort>errant</DB_ExGangMember.titleShort>
     <DB_ExGangLeader.title>ex-chef de gang</DB_ExGangLeader.title>
+    <DB_ExGangLeader.titleShort>caïd déchu</DB_ExGangLeader.titleShort>
+    <DB_RipperDoc.title>ripperdoc</DB_RipperDoc.title>
+    <DB_RipperDoc.titleShort>ripperdoc</DB_RipperDoc.titleShort>
     <DB_Freelancer.title>indépendant</DB_Freelancer.title>
     <DB_Freelancer.titleShort>indépendant</DB_Freelancer.titleShort>
     <DB_ConstructionWorker.title>ouvrier du bâtiment</DB_ConstructionWorker.title>

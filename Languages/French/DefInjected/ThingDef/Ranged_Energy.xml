@@ -1,7 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <Gun_DEF_HeartBurn.label>DEF Brûle-coeur</Gun_DEF_HeartBurn.label>
-    <Bullet_Heartburn.label>rayon brûle-coeur</Bullet_Heartburn.label>
+    <Gun_DEF_HeartBurn.label>DEF Brûle-cœur</Gun_DEF_HeartBurn.label>
+    <Gun_DEF_HeartBurn.description>Un fusil Breaker modifié, conçu pour tirer des rayons de chaleur brûlante infligeant des blessures fatales par brûlure aux cibles organiques.
+
+Cette arme est couramment utilisée par la division spatiale DF, chargée des efforts de colonisation intergalactique.</Gun_DEF_HeartBurn.description>
+    <Bullet_Heartburn.label>rayon Brûle-cœur</Bullet_Heartburn.label>
     <Gun_DEF_HellFire.label>DEF Feu infernal</Gun_DEF_HellFire.label>
-    <Bullet_Hellfire.label>rayon feu infernal</Bullet_Hellfire.label>
+    <Gun_DEF_HellFire.description>Une mitrailleuse Mauler modifiée, conçue pour tirer un flux continu de rayons laser brûlants pouvant réduire n’importe quelle cible en brasier.
+
+Cette arme nécessite un pack de batteries lourd pour être utilisée.</Gun_DEF_HellFire.description>
+    <Bullet_Hellfire.label>rayon Feu infernal</Bullet_Hellfire.label>
 </LanguageData>

@@ -25,6 +25,7 @@
     <DB_WastelandNomad.title>nomade des terres désolées</DB_WastelandNomad.title>
     <DB_WastelandNomad.titleShort>nomade</DB_WastelandNomad.titleShort>
     <DB_Cadet.title>jeune cadet</DB_Cadet.title>
+    <DB_Cadet.titleShort>cadet</DB_Cadet.titleShort>
     <DB_AcademyStudentElite.title>étudiant d'académie d'élite</DB_AcademyStudentElite.title>
     <DB_AcademyStudentElite.titleShort>étudiant d'élite</DB_AcademyStudentElite.titleShort>
     <DB_AspiringOfficer.title>officiers aspirants</DB_AspiringOfficer.title>

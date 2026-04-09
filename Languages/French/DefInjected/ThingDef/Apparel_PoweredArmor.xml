@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
     <Doberkin_Apparel_PoweredArmor.label>Armure anti-émeute avancée DFSD</Doberkin_Apparel_PoweredArmor.label>
+    <Doberkin_Apparel_PoweredArmor.description>Une armure antiémeute avancée portée par les membres respectés de la Division spatiale de la Fédération doberman. Reposant sur un exosquelette GEN 2.5 renforcé par plusieurs couches de plaques de plasteel, cette armure peut absorber une très grande quantité de dégâts avant que le porteur ne subisse des blessures réelles.
+
+Elle possède également un appareil respiratoire intégré qui permet de survivre aux risques toxiques et au vide spatial.</Doberkin_Apparel_PoweredArmor.description>
     <Doberkin_Apparel_PoweredHelmet.label>Casque anti-émeute avancé DFSD</Doberkin_Apparel_PoweredHelmet.label>
     <Doberkin_Apparel_PoweredHelmet.description>Un casque anti-émeute avancé largement utilisé par les membres du DFSD, capable de bloquer les tirs mortels à la tête tout en offrant une résistance aux toxines et au vide.</Doberkin_Apparel_PoweredHelmet.description>
     <Doberkin_Apparel_EarGuard.label>Protège-oreilles avancé DFSD</Doberkin_Apparel_EarGuard.label>

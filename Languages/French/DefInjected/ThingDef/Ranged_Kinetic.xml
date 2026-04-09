@@ -1,10 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+    <Gun_DKF_Reprimand.label>DKF Reprimand</Gun_DKF_Reprimand.label>
+    <Gun_DKF_Reprimand.description>Un pistolet-mitrailleur de précision sophistiqué. Compact et simple à utiliser, il permet à son porteur d’éliminer efficacement des cibles à courte et moyenne portée.
+
+Cette arme est couramment utilisée par les forces de police et les forces spéciales de la Fédération doberman, mais elle est aussi souvent vendue par des trafiquants d’armes aux racailles des bas-fonds urbmondains.</Gun_DKF_Reprimand.description>
     <Bullet_Reprimand.label>balle de DKF Reprimand</Bullet_Reprimand.label>
+    <Gun_DKF_Cluster.label>DKF Cluster</Gun_DKF_Cluster.label>
+    <Gun_DKF_Cluster.description>Un fusil à pompe survolté. Doté d’une structure en plasteel renforcée capable d’absorber la majeure partie du recul, il permet au porteur de placer des tirs de chevrotine bien ajustés sans effort, au point de faire chanceler ou de tuer net n’importe quel hostile à portée létale.</Gun_DKF_Cluster.description>
     <Bullet_Cluster.label>balle de DKF Cluster</Bullet_Cluster.label>
+    <Gun_DKF_ComradeArms.label>DKF Comrade Arms</Gun_DKF_ComradeArms.label>
+    <Gun_DKF_ComradeArms.description>Un pistolet de puissance au fort pouvoir d’arrêt, largement utilisé comme arme de poing par l’armée de la Fédération doberman. Ce canon de poing a été conçu par un armurier renommé nommé « Johnny Plasteel Hands », afin d’offrir une prise en main fluide et une grande facilité d’usage tout en infligeant une punition maximale à chaque tir réussi.</Gun_DKF_ComradeArms.description>
     <Bullet_ComradeArms.label>balle de DKF Comrade Arms</Bullet_ComradeArms.label>
+    <Gun_DKF_Breaker.label>DKF Breaker</Gun_DKF_Breaker.label>
+    <Gun_DKF_Breaker.description>Un lourd lanceur de projectiles de pointe doté d’un système de tir double. Sa conception complexe lui permet de tirer deux projectiles à chaque coup, infligeant des dégâts massifs dans sa portée efficace.</Gun_DKF_Breaker.description>
     <Bullet_Breaker.label>balle de DKF Breaker</Bullet_Breaker.label>
+    <Gun_DKF_Mauler.label>DKF Mauler</Gun_DKF_Mauler.label>
+    <Gun_DKF_Mauler.description>L’une des armes lourdes les plus meurtrières de la Fédération doberman. Conçue spécialement pour le contrôle de foule et l’élimination de cibles uniques, cette arme peut déchaîner une grêle de balles capable de cribler n’importe quel hostile de trous en une seule rafale ; son efficacité augmente encore lorsque deux porteurs ou plus entrent en action.
+
+Cette arme nécessite un sac de munitions cinétiques pour être utilisée.</Gun_DKF_Mauler.description>
     <Bullet_Mauler.label>balle de DKF Mauler</Bullet_Mauler.label>
-    <Gun_DKF_AT_Rifle.label>Fusil antichar DKF</Gun_DKF_AT_Rifle.label>
-    <Bullet_AT_Rifle.label>fusil antichar DKF</Bullet_AT_Rifle.label>
+    <Gun_DKF_AT_Rifle.label>fusil antichar DKF</Gun_DKF_AT_Rifle.label>
+    <Gun_DKF_AT_Rifle.description>Un fusil antichar longue portée. Conçu à l’origine pour traquer les centipèdes, il a fini par trouver sa place aux confins intergalactiques pour la chasse ainsi que pour repousser pirates et étrangers hostiles. Cette arme tire une munition antichar de 20 mm capable de percer plusieurs couches d’acier et d’oblitérer facilement n’importe quel membre de cibles organiques et vulnérables.
+
+Cette arme nécessite un sac de munitions cinétiques pour être utilisée.</Gun_DKF_AT_Rifle.description>
+    <Bullet_AT_Rifle.label>balle de fusil antichar DKF</Bullet_AT_Rifle.label>
 </LanguageData>

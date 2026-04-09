@@ -1,5 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <Gun_DKF_CommanderSidearm.label>Arme de poing du commandant DKF</Gun_DKF_CommanderSidearm.label>
-    <Bullet_ComanderSidearm.label>Balle DKF CS</Bullet_ComanderSidearm.label>
+    <Gun_DKF_CommanderSidearm.description>Une version modifiée du Comrade Arms, désormais équipée d’un scanner intelligent d’interception au format pistolet ainsi que d’un canon allongé servant à tirer une balle intelligente de calibre .700 nitro express.
+
+Cette arme est principalement maniée par un haut commandant.</Gun_DKF_CommanderSidearm.description>
+    <Bullet_ComanderSidearm.label>Balle de DKF CS</Bullet_ComanderSidearm.label>
 </LanguageData>

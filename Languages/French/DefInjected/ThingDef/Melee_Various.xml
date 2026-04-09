@@ -1,8 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+    <Melee_DMW_Tomahawk.label>DMW Tomahawk</Melee_DMW_Tomahawk.label>
+    <Melee_DMW_Tomahawk.description>Une arme du vieux monde qui existe encore aujourd’hui, désormais améliorée pour rester pertinente sur le marché actuel des armes de mêlée.</Melee_DMW_Tomahawk.description>
+    <Melee_DMW_Katana.label>DMW Katana</Melee_DMW_Katana.label>
     <Melee_DMW_Katana.description>Une autre arme du vieux monde, maintenant améliorée avec une meilleure prise pour une meilleure manipulation et avec un tranchant de lame fait de plasteel.</Melee_DMW_Katana.description>
     <Melee_DMW_Machete.label>DMW Machette</Melee_DMW_Machete.label>
     <Melee_DMW_Machete.description>Une autre arme du vieux monde. Elle était destinée à être utilisée pour dégager les mauvaises herbes et les arbres envahissants, maintenant utilisée pour couper les têtes des ennemis.</Melee_DMW_Machete.description>
     <Melee_DMW_ImpactHammer.label>DMW Marteau d'impact</Melee_DMW_ImpactHammer.label>
+    <Melee_DMW_ImpactHammer.description>Un marteau de démolition propulsé par fusée, conçu spécialement pour détruire les structures franchissables ou non, mais aussi pour fracasser les ennemis comme une balle de baseball. À l’impact, la cible peut être projetée sur au moins 7 cases, subissant de lourds dégâts contondants avec une chance d’être étourdie, et des dégâts massifs supplémentaires si elle percute un mur ou une autre structure infranchissable.</Melee_DMW_ImpactHammer.description>
     <Melee_DMW_ThermoSword.label>DMW Épée thermique</Melee_DMW_ThermoSword.label>
+    <Melee_DMW_ThermoSword.description>Une épée dotée d’un dispositif d’amplification thermique relié à son tranchant, capable de tailler dans les ennemis organiques avec de fortes chances de les enflammer.
+
+Cette arme a été conçue comme une alternative viable aux épées plasmas impériales.</Melee_DMW_ThermoSword.description>
 </LanguageData>

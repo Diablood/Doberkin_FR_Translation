@@ -2,4 +2,7 @@
 <LanguageData>
     <Doberkin_MeatRation.label>Ration de viande DF</Doberkin_MeatRation.label>
     <Doberkin_MeatRation.description>Une ration entièrement à base de viande et bien conservée, qui est l'aliment de base des doberkins de la Fédération doberman.</Doberkin_MeatRation.description>
+    <Cook_DF_Ration.label>cuisiner une ration de viande DF</Cook_DF_Ration.label>
+    <Cook_DF_Ration.description>Préparer une ration de viande DF.</Cook_DF_Ration.description>
+    <Cook_DF_Ration.jobString>Préparation d’une ration de viande.</Cook_DF_Ration.jobString>
 </LanguageData>

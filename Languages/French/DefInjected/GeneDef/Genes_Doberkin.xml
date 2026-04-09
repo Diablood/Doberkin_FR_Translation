@@ -16,16 +16,45 @@
     <Doberkin_AmberEyes.label>yeux ambrés</Doberkin_AmberEyes.label>
     <Doberkin_AmberEyes.description>Les porteurs de ce gène possèdent les yeux ambrés des doberkins communs.</Doberkin_AmberEyes.description>
     <Doberkin_IndomitableWill.label>volonté indomptable</Doberkin_IndomitableWill.label>
+    <Doberkin_IndomitableWill.description>Les porteurs de ce gène possèdent un esprit indomptable et très discipliné. Ils sont moins susceptibles de subir des crises mentales et abordent les situations avec calme et sang-froid.
+
+Ils ont aussi tendance à s’endormir plus vite que les autres.</Doberkin_IndomitableWill.description>
     <Doberkin_NaturalSoldier.label>soldat naturel</Doberkin_NaturalSoldier.label>
+    <Doberkin_NaturalSoldier.description>Les porteurs de ce gène sont des soldats nés, capables de se battre avec plus d’acharnement et d’avoir de meilleures chances de triompher de leurs ennemis.
+
+Ils sont également immunisés contre les intoxications alimentaires.</Doberkin_NaturalSoldier.description>
     <Doberkin_NaturalEliteSoldier.label>soldat d'élite naturel</Doberkin_NaturalEliteSoldier.label>
+    <Doberkin_NaturalEliteSoldier.description>Les porteurs de ce gène sont des soldats d’élite nés, capables de se battre avec plus d’acharnement et d’avoir de meilleures chances de triompher de leurs ennemis.
+
+Ils sont également immunisés contre les intoxications alimentaires.</Doberkin_NaturalEliteSoldier.description>
     <Doberkin_CrimsonEyes.label>yeux cramoisis</Doberkin_CrimsonEyes.label>
-    <Doberkin_CrimsonEyes.description>Les porteurs de ce gène possèdent les yeux cramoisis des alpha doberkins.</Doberkin_CrimsonEyes.description>
+    <Doberkin_CrimsonEyes.description>Les porteurs de ce gène possèdent les yeux cramoisis des doberkins alpha.</Doberkin_CrimsonEyes.description>
     <Doberkin_AlphaHowl.label>hurlement alpha</Doberkin_AlphaHowl.label>
-    <Doberkin_AlphaHowl.description>Le porteur de ce gène peut pousser un hurlement revigorant.</Doberkin_AlphaHowl.description>
-    <GeneticMetabolismControl.label>métabolisme naturel</GeneticMetabolismControl.label>
-    <GeneticMetabolismControl.description>Les porteurs de ce gène naissent avec un contrôle métabolique optimisé, ce qui améliore la qualité génétique et métabolique globale.</GeneticMetabolismControl.description>
-    <Doberkin_DoberAffection.label>Affection K9</Doberkin_DoberAffection.label>
-    <Doberkin_Pureblood.label>Sang-pur</Doberkin_Pureblood.label>
-    <Doberkin_VoiceDogz.label>voix canine</Doberkin_VoiceDogz.label>
-    <Doberkin_VoiceDogz.description>Les porteurs ont une voix aboyante semblable à celle d'un chien.</Doberkin_VoiceDogz.description>
+    <Doberkin_AlphaHowl.description>Les porteurs de ce gène peuvent émettre un hurlement alpha, une capacité rare propre aux doberkins alpha.</Doberkin_AlphaHowl.description>
+    <Doberkin_Robust.label>robuste</Doberkin_Robust.label>
+    <Doberkin_Robust.description>Les porteurs de ce gène possèdent une constitution naturellement plus robuste.</Doberkin_Robust.description>
+    <Doberkin_LowSleep.label>peu dormeur</Doberkin_LowSleep.label>
+    <Doberkin_LowSleep.description>Les porteurs de ce gène ont besoin de moins de sommeil que la moyenne.</Doberkin_LowSleep.description>
+    <Doberkin_LowFood.label>faible appétit</Doberkin_LowFood.label>
+    <Doberkin_LowFood.description>Les porteurs de ce gène consomment moins de nourriture que la moyenne.</Doberkin_LowFood.description>
+    <Doberkin_SuperClotting.label>super-coagulation</Doberkin_SuperClotting.label>
+    <Doberkin_SuperClotting.description>Les porteurs de ce gène coagulent rapidement, ce qui réduit les pertes de sang.</Doberkin_SuperClotting.description>
+    <Doberkin_FastWoundHealing.label>guérison rapide</Doberkin_FastWoundHealing.label>
+    <Doberkin_FastWoundHealing.description>Les porteurs de ce gène récupèrent plus vite de leurs blessures.</Doberkin_FastWoundHealing.description>
+    <Doberkin_MildAggression.label>agressivité modérée</Doberkin_MildAggression.label>
+    <Doberkin_MildAggression.description>Les porteurs de ce gène ont une légère tendance à l’agressivité.</Doberkin_MildAggression.description>
+    <Doberkin_QuickLearner.label>apprentissage rapide</Doberkin_QuickLearner.label>
+    <Doberkin_QuickLearner.description>Les porteurs de ce gène apprennent plus rapidement que la moyenne.</Doberkin_QuickLearner.description>
+    <Doberkin_FireResistant.label>résistant au feu</Doberkin_FireResistant.label>
+    <Doberkin_FireResistant.description>Les porteurs de ce gène supportent mieux la chaleur et le feu.</Doberkin_FireResistant.description>
+    <Doberkin_Nearsighted.label>myope</Doberkin_Nearsighted.label>
+    <Doberkin_Nearsighted.description>Les porteurs de ce gène voient moins bien de loin.</Doberkin_Nearsighted.description>
+    <Doberkin_PoorShooting.label>mauvais tireur</Doberkin_PoorShooting.label>
+    <Doberkin_PoorShooting.description>Les porteurs de ce gène sont moins efficaces au tir.</Doberkin_PoorShooting.description>
+    <Doberkin_DiseaseResistant.label>résistance aux maladies</Doberkin_DiseaseResistant.label>
+    <Doberkin_DiseaseResistant.description>Les porteurs de ce gène résistent mieux aux maladies.</Doberkin_DiseaseResistant.description>
+    <Doberkin_DiseaseResistantMajor.label>forte résistance aux maladies</Doberkin_DiseaseResistantMajor.label>
+    <Doberkin_DiseaseResistantMajor.description>Les porteurs de ce gène résistent très bien aux maladies.</Doberkin_DiseaseResistantMajor.description>
+    <Doberkin_HeatWeakness.label>faiblesse à la chaleur</Doberkin_HeatWeakness.label>
+    <Doberkin_HeatWeakness.description>Les porteurs de ce gène supportent mal les fortes chaleurs.</Doberkin_HeatWeakness.description>
 </LanguageData>

@@ -1,11 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
     <DataBank_ShieldCommanderGears.label>Banque de données (équipement de commandant bouclier)</DataBank_ShieldCommanderGears.label>
+    <DataBank_ShieldCommanderGears.description>Une banque de données contenant les schémas et les informations nécessaires à la fabrication de l’équipement de commandant-bouclier.</DataBank_ShieldCommanderGears.description>
     <DataBank_PowerArmor.label>Banque de données (équipement d'armure assistée doberkin)</DataBank_PowerArmor.label>
+    <DataBank_PowerArmor.description>Une banque de données contenant les schémas de l’armure assistée doberkin.</DataBank_PowerArmor.description>
     <DataBank_EnergyWeapons.label>Banque de données (armes énergétiques DKF)</DataBank_EnergyWeapons.label>
+    <DataBank_EnergyWeapons.description>Une banque de données consacrée aux armes énergétiques DKF.</DataBank_EnergyWeapons.description>
     <DataBank_ShieldCommanderWeapons.label>Banque de données (armes de commandant bouclier)</DataBank_ShieldCommanderWeapons.label>
+    <DataBank_ShieldCommanderWeapons.description>Une banque de données consacrée aux armes des commandants-boucliers.</DataBank_ShieldCommanderWeapons.description>
     <DataBank_HighCommanderGears.label>Banque de données (équipement de haut commandant)</DataBank_HighCommanderGears.label>
+    <DataBank_HighCommanderGears.description>Une banque de données consacrée à l’équipement des hauts commandants.</DataBank_HighCommanderGears.description>
     <DataBank_QuickSilverImplant.label>Banque de données (implant Quick Silver)</DataBank_QuickSilverImplant.label>
+    <DataBank_QuickSilverImplant.description>Une banque de données consacrée à la technologie Quick Silver.</DataBank_QuickSilverImplant.description>
     <Doberkin_ComponentSpacer.label>Composant avancé doberkin</Doberkin_ComponentSpacer.label>
+    <Doberkin_ComponentSpacer.description>Une pièce essentielle de machinerie avancée, largement utilisée dans la fabrication des équipements doberkin haut de gamme, de l’armement et de diverses machines.
+
+Cette technologie est si vitale qu’elle ne peut être obtenue qu’auprès de la Fédération doberman.</Doberkin_ComponentSpacer.description>
     <Neurogen_Serum.label>Sérum Neurogen</Neurogen_Serum.label>
+    <Neurogen_Serum.description>Un médicament essentiel pour les utilisateurs d’implants Quick Silver, employé pour éliminer la neurodégénérescence invalidante du système du patient.
+
+Ce sérum est fabriqué en convertissant la médecine végétale sous forme liquide, puis en la stockant dans un injecteur de sérum.</Neurogen_Serum.description>
 </LanguageData>

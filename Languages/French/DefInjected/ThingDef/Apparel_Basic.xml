@@ -3,15 +3,20 @@
     <Doberkin_Apparel_Jumpsuit.label>Combinaison doberkin</Doberkin_Apparel_Jumpsuit.label>
     <Doberkin_Apparel_Jumpsuit.description>Une combinaison standard portée par les doberkins, offre une protection minimale mais augmente légèrement la vitesse de déplacement grâce à des micro-rotors.</Doberkin_Apparel_Jumpsuit.description>
     <Doberkin_Apparel_TacticalVest.label>Gilet doberkin</Doberkin_Apparel_TacticalVest.label>
+    <Doberkin_Apparel_TacticalVest.description>Un gilet de protection moderne qui protège le torse et le cou. Légèrement inférieur aux gilets pare-balles classiques, mais naturellement peu coûteux à fabriquer.</Doberkin_Apparel_TacticalVest.description>
     <Doberkin_Apparel_BallisticHelmet.label>Casque doberkin</Doberkin_Apparel_BallisticHelmet.label>
     <Doberkin_Apparel_BallisticHelmet_Facemask.label>Casque doberkin T1</Doberkin_Apparel_BallisticHelmet_Facemask.label>
     <Doberkin_Apparel_BallisticHelmet_Facemask.description>Une variante du casque balistique doberkin, qui ajoute un masque facial fonctionnel offrant une résistance minimale aux toxines.</Doberkin_Apparel_BallisticHelmet_Facemask.description>
     <Doberkin_Apparel_BallisticHelmet_Melee.label>Casque doberkin T2</Doberkin_Apparel_BallisticHelmet_Melee.label>
     <Doberkin_Apparel_BallisticHelmet_Melee.description>Une variante du casque balistique doberkin, désormais avec un masque facial renforcé offrant une meilleure protection contre les dégâts contondants.</Doberkin_Apparel_BallisticHelmet_Melee.description>
     <Doberkin_Apparel_Balaclava.label>Cagoule doberkin</Doberkin_Apparel_Balaclava.label>
+    <Doberkin_Apparel_Balaclava.description>Une cagoule tactique offrant une légère protection et une bonne isolation.</Doberkin_Apparel_Balaclava.description>
     <Doberkin_Apparel_Backpack.label>Sac à dos doberkin</Doberkin_Apparel_Backpack.label>
+    <Doberkin_Apparel_Backpack.description>Un sac à dos militaire doberkin permettant d’emporter davantage de matériel.</Doberkin_Apparel_Backpack.description>
     <Doberkin_Apparel_Backpack_Small.label>Sac à dos doberkin S</Doberkin_Apparel_Backpack_Small.label>
+    <Doberkin_Apparel_Backpack_Small.description>Une version plus petite du sac à dos doberkin standard, offrant la moitié de la capacité de transport mais aussi la moitié de la pénalité sur le mouvement.</Doberkin_Apparel_Backpack_Small.description>
     <Doberkin_Apparel_Waistpack.label>Pochette de ceinture doberkin</Doberkin_Apparel_Waistpack.label>
+    <Doberkin_Apparel_Waistpack.description>Une pochette de ceinture doberkin, offrant un espace de stockage supplémentaire sans pénalité sur le mouvement.</Doberkin_Apparel_Waistpack.description>
     <Doberkin_GlovesReinforced.label>gants renforcés</Doberkin_GlovesReinforced.label>
     <Doberkin_GlovesReinforced.description>Une paire de gants renforcés, couramment portés par les mercenaires et ceux qui servent dans les forces militaires.</Doberkin_GlovesReinforced.description>
     <Doberkin_BootsReinforced.label>bottes renforcées</Doberkin_BootsReinforced.label>

@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
     <Doberkin_Apparel_Protectgear_BodyArmor.label>Armure de combat doberkin</Doberkin_Apparel_Protectgear_BodyArmor.label>
+    <Doberkin_Apparel_Protectgear_BodyArmor.description>Une armure de combat de couche intermédiaire portée par les soldats lourds de la Fédération doberman. Cette armure protège le corps à l’aide de plaques de plasteel, y compris les zones vulnérables, et elle est équipée d’un exosquelette GEN 1 qui confère au porteur une force supérieure aux capacités humaines.</Doberkin_Apparel_Protectgear_BodyArmor.description>
     <Doberkin_Apparel_Protectgear_PauldronsBasic.label>Épaulières doberkin</Doberkin_Apparel_Protectgear_PauldronsBasic.label>
+    <Doberkin_Apparel_Protectgear_PauldronsBasic.description>Une paire d’épaulières. Portées avec l’armure de combat doberkin, elles assurent une protection essentielle aux épaules et aux autres parties exposées du haut du torse.</Doberkin_Apparel_Protectgear_PauldronsBasic.description>
     <Doberkin_Apparel_Protectgear_Pauldrons.label>Épaulières doberkin T1</Doberkin_Apparel_Protectgear_Pauldrons.label>
+    <Doberkin_Apparel_Protectgear_Pauldrons.description>Une version renforcée des épaulières doberkin.</Doberkin_Apparel_Protectgear_Pauldrons.description>
     <Doberkin_Apparel_BallisticHelmet_Tactical.label>Casque tactique doberkin</Doberkin_Apparel_BallisticHelmet_Tactical.label>
     <Doberkin_Apparel_BallisticHelmet_Tactical.description>Une variante du casque balistique doberkin, modifié avec des gadgets qui peuvent aider le porteur au combat.</Doberkin_Apparel_BallisticHelmet_Tactical.description>
     <Doberkin_Apparel_BallisticHelmet_TacticalFacemask.label>Casque tactique doberkin T1</Doberkin_Apparel_BallisticHelmet_TacticalFacemask.label>
+    <Doberkin_Apparel_BallisticHelmet_TacticalFacemask.description>Une variante du casque balistique tactique Doberkin, désormais équipé d'une visière blindée offrant une protection minimale contre les dommages physiques et les risques liés aux substances toxiques.</Doberkin_Apparel_BallisticHelmet_TacticalFacemask.description>
     <Doberkin_Apparel_Balaclava_Reinforced.label>Cagoule doberkin T2</Doberkin_Apparel_Balaclava_Reinforced.label>
     <Doberkin_Apparel_Balaclava_Sniper.label>Cagoule doberkin T2</Doberkin_Apparel_Balaclava_Sniper.label>
     <Doberkin_Apparel_KineticAmmoPack.label>Pack de munitions balistiques</Doberkin_Apparel_KineticAmmoPack.label>
