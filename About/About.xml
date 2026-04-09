@@ -11,6 +11,7 @@
         <li>
             <packageId>blackmarket420.xenotype.doberkin</packageId>
             <displayName>BM's Races: Doberkins</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3582734971</steamWorkshopUrl>
         </li>
     </modDependencies>
     <loadAfter>
