@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
     <DataBank_EnergyWeapons.label>banque de données (armes énergétiques DKF)</DataBank_EnergyWeapons.label>
-    <DataBank_EnergyWeapons.comps.li.jobString>Analyze data bank</DataBank_EnergyWeapons.comps.li.jobString>
-    <DataBank_PulseWeapons.label>Data bank ( à impulsion Weapons )</DataBank_PulseWeapons.label>
-    <DataBank_PulseWeapons.comps.li.jobString>Analyze data bank</DataBank_PulseWeapons.comps.li.jobString>
+    <DataBank_EnergyWeapons.comps.li.jobString>Analyser la banque de données</DataBank_EnergyWeapons.comps.li.jobString>
+    <DataBank_PulseWeapons.label>banque de données (armes à impulsion)</DataBank_PulseWeapons.label>
+    <DataBank_PulseWeapons.comps.li.jobString>Analyser la banque de données</DataBank_PulseWeapons.comps.li.jobString>
     <DataBank_HighCommanderGears.label>banque de données (équipement de haut commandant)</DataBank_HighCommanderGears.label>
-    <DataBank_HighCommanderGears.comps.li.jobString>Analyze data bank</DataBank_HighCommanderGears.comps.li.jobString>
-    <Doberkin_ComponentIndustrial.label>doberkin industrial component</Doberkin_ComponentIndustrial.label>
-    <Doberkin_ComponentIndustrial.description>One of the most basic and widely used piece of hardware from the doberman federation, a basic manufaturing component for domestic and military use.</Doberkin_ComponentIndustrial.description>
+    <DataBank_HighCommanderGears.comps.li.jobString>Analyser la banque de données</DataBank_HighCommanderGears.comps.li.jobString>
+    <Doberkin_ComponentIndustrial.label>composant industriel doberkin</Doberkin_ComponentIndustrial.label>
+    <Doberkin_ComponentIndustrial.description>L’une des pièces de matériel les plus basiques et les plus répandues de la Fédération doberman, un composant de fabrication simple destiné aux usages civils et militaires.</Doberkin_ComponentIndustrial.description>
     <Doberkin_ComponentSpacer.label>composant avancé doberkin</Doberkin_ComponentSpacer.label>
     <Doberkin_ComponentSpacer.description>Une pièce essentielle de machinerie avancée, largement utilisée dans la fabrication des équipements doberkin haut de gamme, de l’armement et de diverses machines.\n\nCette technologie est si vitale qu’elle ne peut être obtenue qu’auprès de la Fédération doberman.</Doberkin_ComponentSpacer.description>
-    <Doberman_KevlarArmor.label>doberman kevlar armure</Doberman_KevlarArmor.label>
-    <Doberman_KevlarArmor.description>A simple apparel kit made for dobermans, providing them with ample amount of protection by covering their vital points with kevlar. This apparel is mostly seen being used by security and police divisions, specially in numerous colonies where the demand of accessible protective gear for dobermans were prevalent.</Doberman_KevlarArmor.description>
-    <Doberman_ProtectgearArmor.label>doberman protect gear</Doberman_ProtectgearArmor.label>
-    <Doberman_ProtectgearArmor.description>A specially made apparel kit for fully grown dobermans, providing them with viable amount of protection. Its intricate design allows them with freedom of movement despite being fully armored, also granting them full immunity against toxic buildup.</Doberman_ProtectgearArmor.description>
+    <Doberman_KevlarArmor.label>armure en kevlar pour doberman</Doberman_KevlarArmor.label>
+    <Doberman_KevlarArmor.description>Un équipement simple conçu pour les dobermans, leur offrant une protection correcte en couvrant leurs points vitaux avec du kevlar. On le voit surtout utilisé par les divisions de sécurité et de police, notamment dans de nombreuses colonies où la demande d’équipement de protection accessible pour dobermans est répandue.</Doberman_KevlarArmor.description>
+    <Doberman_ProtectgearArmor.label>armure de protection pour unité canine</Doberman_ProtectgearArmor.label>
+    <Doberman_ProtectgearArmor.description>Un équipement spécialement conçu pour les dobermans adultes, leur offrant une protection convenable. Sa conception complexe leur permet de conserver une bonne liberté de mouvement malgré l’armure complète, tout en leur accordant une immunité totale contre l’accumulation toxique.</Doberman_ProtectgearArmor.description>
 </LanguageData>

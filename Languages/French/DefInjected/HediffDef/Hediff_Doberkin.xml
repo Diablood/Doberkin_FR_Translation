@@ -8,10 +8,10 @@
     <Doberkin_AlphaHowl_CommonBuff.label>Boost d'aura alpha</Doberkin_AlphaHowl_CommonBuff.label>
     <Doberkin_AlphaHowl_CommonBuff.description>Un bonus spécial invoqué par un alpha doberkin.</Doberkin_AlphaHowl_CommonBuff.description>
     <Doberkin_AlphaHowl_CommonBuff.stages.li.label>Empowered</Doberkin_AlphaHowl_CommonBuff.stages.li.label>
-    <Doberman_KevlarArmor.label>doberman kevlar armure</Doberman_KevlarArmor.label>
-    <Doberman_KevlarArmor.description>A protective piece of doberman kevlar armure and helmet.</Doberman_KevlarArmor.description>
-    <Doberman_KevlarArmor.stages.li.label>Armored</Doberman_KevlarArmor.stages.li.label>
-    <Doberman_Protectgear.label>doberman protect gear</Doberman_Protectgear.label>
-    <Doberman_Protectgear.description>A protective suit of doberman protect gear armure and helmet.</Doberman_Protectgear.description>
-    <Doberman_Protectgear.stages.li.label>Armored</Doberman_Protectgear.stages.li.label>
+    <Doberman_KevlarArmor.label>armure kevlar doberman</Doberman_KevlarArmor.label>
+    <Doberman_KevlarArmor.description>Un pièce de protection constituée d'une armure kevlar doberman et d'un casque.</Doberman_KevlarArmor.description>
+    <Doberman_KevlarArmor.stages.li.label>Blindé</Doberman_KevlarArmor.stages.li.label>
+    <Doberman_Protectgear.label>équipement de protection doberman</Doberman_Protectgear.label>
+    <Doberman_Protectgear.description>Un vêtement de protection constitué d'un équipement de protection doberman et d'un casque.</Doberman_Protectgear.description>
+    <Doberman_Protectgear.stages.li.label>Blindé</Doberman_Protectgear.stages.li.label>
 </LanguageData>

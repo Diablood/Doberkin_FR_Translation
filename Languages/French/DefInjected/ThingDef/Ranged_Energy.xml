@@ -2,18 +2,18 @@
 <LanguageData>
     <Gun_DEF_HeartBurn.label>DEF Brûle-cœur</Gun_DEF_HeartBurn.label>
     <Gun_DEF_HeartBurn.description>Un fusil Breaker modifié, conçu pour tirer des rayons de chaleur brûlante infligeant des blessures fatales par brûlure aux cibles organiques.\n\nCette arme est couramment utilisée par la division spatiale DF, chargée des efforts de colonisation intergalactique.</Gun_DEF_HeartBurn.description>
-    <Gun_DEF_HeartBurn.tools.li.label>grip</Gun_DEF_HeartBurn.tools.li.label>
+    <Gun_DEF_HeartBurn.tools.li.label>poignée</Gun_DEF_HeartBurn.tools.li.label>
     <Bullet_Heartburn.label>rayon Brûle-cœur</Bullet_Heartburn.label>
     <Gun_DEF_HellFire.label>DEF Feu infernal</Gun_DEF_HellFire.label>
     <Gun_DEF_HellFire.description>Une mitrailleuse Mauler modifiée, conçue pour tirer un flux continu de rayons laser brûlants pouvant réduire n’importe quelle cible en brasier.\n\nCette arme nécessite un pack de batteries lourd pour être utilisée.</Gun_DEF_HellFire.description>
-    <Gun_DEF_HellFire.tools.li.label>grip</Gun_DEF_HellFire.tools.li.label>
+    <Gun_DEF_HellFire.tools.li.label>poignée</Gun_DEF_HellFire.tools.li.label>
     <Bullet_Hellfire.label>rayon Feu infernal</Bullet_Hellfire.label>
     <Gun_DEF_Lancer.label>DEF Lancer</Gun_DEF_Lancer.label>
-    <Gun_DEF_Lancer.description>An energy weapon capable of firing a laser beam at longer distance. By using quartz crystals, the beam can travel at longer distance through magnification. Not only that magnification can extend the beam length, it can also amplify the amount of damage that it can inflict at every single shot.\n\nThis weapon requires an ADV energy pack in order to use.</Gun_DEF_Lancer.description>
-    <Gun_DEF_Lancer.tools.li.label>grip</Gun_DEF_Lancer.tools.li.label>
+    <Gun_DEF_Lancer.description>Une arme énergétique capable de tirer un rayon laser sur de longues distances. Grâce à des cristaux de quartz, le rayon peut parcourir une plus grande distance par amplification. Cette amplification ne se contente pas d’étendre la portée du rayon : elle augmente aussi les dégâts infligés à chaque tir.\n\nCette arme nécessite un pack d’énergie avancé pour être utilisée.</Gun_DEF_Lancer.description>
+    <Gun_DEF_Lancer.tools.li.label>poignée</Gun_DEF_Lancer.tools.li.label>
     <Bullet_Lancer.label>tir laser DEF</Bullet_Lancer.label>
     <Gun_DEF_RedGlare.label>DEF Reflet rouge</Gun_DEF_RedGlare.label>
     <Gun_DEF_RedGlare.description>Un puissant lance-grenades. Conçu spécialement pour le contrôle de foule, le Reflet rouge propulse des grenades incendiaires capables d’incinérer tout ce qui se trouve dans un rayon d’explosion de 2,4 cases, ce qui le rend particulièrement efficace contre les mécanoïdes et les entités horaxiennes.\n\nCette arme nécessite un ensemble complet d’armure de commandant-bouclier pour être utilisée.</Gun_DEF_RedGlare.description>
-    <Gun_DEF_RedGlare.tools.li.label>grip</Gun_DEF_RedGlare.tools.li.label>
+    <Gun_DEF_RedGlare.tools.li.label>poignée</Gun_DEF_RedGlare.tools.li.label>
     <Bullet_RedGlare.label>tir DEF Reflet rouge</Bullet_RedGlare.label>
 </LanguageData>

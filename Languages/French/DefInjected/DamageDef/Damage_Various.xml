@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <Damage_Shredder.label>Shred</Damage_Shredder.label>
-    <Damage_Shredder.deathMessage>{0} has been burnt to death.</Damage_Shredder.deathMessage>
+    <Damage_Shredder.label>déchiquetage</Damage_Shredder.label>
+    <Damage_Shredder.deathMessage>{0} a été brûlé à mort.</Damage_Shredder.deathMessage>
     <Damage_RedGlare.label>brûlure Reflet rouge</Damage_RedGlare.label>
-    <Damage_RedGlare.deathMessage>{0} has been burnt to death.</Damage_RedGlare.deathMessage>
-    <Damage_CommanderSidearm.label>CS à impulsion shot</Damage_CommanderSidearm.label>
-    <Damage_CommanderSidearm.deathMessage>{0} has been burnt to death.</Damage_CommanderSidearm.deathMessage>
+    <Damage_RedGlare.deathMessage>{0} a été brûlé à mort.</Damage_RedGlare.deathMessage>
+    <Damage_CommanderSidearm.label>tir à impulsion CS</Damage_CommanderSidearm.label>
+    <Damage_CommanderSidearm.deathMessage>{0} a été brûlé à mort.</Damage_CommanderSidearm.deathMessage>
     <Damage_Energy.label>brûlure énergétique</Damage_Energy.label>
-    <Damage_Energy.deathMessage>{0} has been burnt to death.</Damage_Energy.deathMessage>
-    <Damage_Pulsez.label>énergie burst</Damage_Pulsez.label>
-    <Damage_Pulsez.deathMessage>{0} has been burnt to death.</Damage_Pulsez.deathMessage>
+    <Damage_Energy.deathMessage>{0} a été brûlé à mort.</Damage_Energy.deathMessage>
+    <Damage_Pulsez.label>décharge énergétique</Damage_Pulsez.label>
+    <Damage_Pulsez.deathMessage>{0} a été brûlé à mort.</Damage_Pulsez.deathMessage>
     <Damage_ThermoBlade.label>brûlure thermique</Damage_ThermoBlade.label>
-    <Damage_ThermoBlade.deathMessage>{0} has been burnt to death.</Damage_ThermoBlade.deathMessage>
+    <Damage_ThermoBlade.deathMessage>{0} a été brûlé à mort.</Damage_ThermoBlade.deathMessage>
     <KnockBackDamage_ImpactHammer.label>force d’impact</KnockBackDamage_ImpactHammer.label>
-    <KnockBackDamage_ImpactHammer.deathMessage>{0} has been smashed to death.</KnockBackDamage_ImpactHammer.deathMessage>
+    <KnockBackDamage_ImpactHammer.deathMessage>{0} a été écrasé à mort.</KnockBackDamage_ImpactHammer.deathMessage>
 </LanguageData>

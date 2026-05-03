@@ -29,21 +29,21 @@
     <Doberkin_CrimsonEyes.description>Les porteurs de ce gène possèdent les yeux cramoisis des doberkins alpha.</Doberkin_CrimsonEyes.description>
     <Doberkin_AlphaHowl.label>hurlement alpha</Doberkin_AlphaHowl.label>
     <Doberkin_AlphaHowl.description>Les porteurs de ce gène peuvent émettre un hurlement alpha, une capacité rare propre aux doberkins alpha.</Doberkin_AlphaHowl.description>
-    <GeneticMetabolismControl.label>natural metabolism</GeneticMetabolismControl.label>
-    <GeneticMetabolismControl.labelShortAdj>genetic-metabolic</GeneticMetabolismControl.labelShortAdj>
-    <GeneticMetabolismControl.description>Carriers of this gene are born with an optimized metabolism control, which improves overall genetic and metabolic quality.</GeneticMetabolismControl.description>
-    <Doberkin_DoberAffection.label>K9 affection</Doberkin_DoberAffection.label>
+    <GeneticMetabolismControl.label>métabolisme naturel</GeneticMetabolismControl.label>
+    <GeneticMetabolismControl.labelShortAdj>génético-métabolique</GeneticMetabolismControl.labelShortAdj>
+    <GeneticMetabolismControl.description>Les porteurs de ce gène naissent avec un contrôle métabolique optimisé, ce qui améliore leur qualité génétique et métabolique globale.</GeneticMetabolismControl.description>
+    <Doberkin_DoberAffection.label>affection K9</Doberkin_DoberAffection.label>
     <Doberkin_DoberAffection.labelShortAdj>affection</Doberkin_DoberAffection.labelShortAdj>
-    <Doberkin_DoberAffection.description>Carriers of this gene are a complete softie towards their lover. Every 24hr intervals, they will nuzzle with their better half which slightly improves their lover's overall mood, although they would temporarily forget their work in order to nuzzle at their lover.\n\nThe carrier of the gene also receives a positive mood buff when wearing a dog collar.</Doberkin_DoberAffection.description>
-    <Doberkin_Commonblood.label>Common blood</Doberkin_Commonblood.label>
+    <Doberkin_DoberAffection.description>Les porteurs de ce gène sont extrêmement tendres envers leur partenaire. Toutes les 24 heures, ils feront des câlins à leur moitié, ce qui améliore légèrement l’humeur de celle-ci, même s’ils oublient temporairement leur travail pour le faire.\n\nLe porteur de ce gène reçoit également un bonus d’humeur positif lorsqu’il porte un collier pour chien.</Doberkin_DoberAffection.description>
+    <Doberkin_Commonblood.label>sang commun</Doberkin_Commonblood.label>
     <Doberkin_Commonblood.labelShortAdj>affection</Doberkin_Commonblood.labelShortAdj>
-    <Doberkin_Commonblood.description>Carriers of this gene can allow female doberkins to give birth to doberkin babies.</Doberkin_Commonblood.description>
-    <Doberkin_Pureblood.label>Pure blood</Doberkin_Pureblood.label>
+    <Doberkin_Commonblood.description>Les porteurs de ce gène permettent aux femelles doberkin de donner naissance à des bébés doberkin.</Doberkin_Commonblood.description>
+    <Doberkin_Pureblood.label>sang pur</Doberkin_Pureblood.label>
     <Doberkin_Pureblood.labelShortAdj>affection</Doberkin_Pureblood.labelShortAdj>
-    <Doberkin_Pureblood.description>Carriers of this gene can allow female doberkin alphas to give birth to doberkin alpha babies.</Doberkin_Pureblood.description>
+    <Doberkin_Pureblood.description>Les porteurs de ce gène permettent aux femelles doberkin alpha de donner naissance à des bébés doberkin alpha.</Doberkin_Pureblood.description>
     <Doberkin_VoiceDogz.label>voix canine</Doberkin_VoiceDogz.label>
-    <Doberkin_VoiceDogz.description>Carriers have a barking voice like that of a dog.</Doberkin_VoiceDogz.description>
-    <Doberkin_GeneticHealthDeficientcy.label>genetic health deficientcy</Doberkin_GeneticHealthDeficientcy.label>
-    <Doberkin_GeneticHealthDeficientcy.labelShortAdj>health defect</Doberkin_GeneticHealthDeficientcy.labelShortAdj>
-    <Doberkin_GeneticHealthDeficientcy.description>Carriers of this gene possess a genetic health defect, where they have weak healing factor and slow immunity gain speed.</Doberkin_GeneticHealthDeficientcy.description>
+    <Doberkin_VoiceDogz.description>Les porteurs ont une voix aboyante semblable à celle d’un chien.</Doberkin_VoiceDogz.description>
+    <Doberkin_GeneticHealthDeficientcy.label>déficience génétique de santé</Doberkin_GeneticHealthDeficientcy.label>
+    <Doberkin_GeneticHealthDeficientcy.labelShortAdj>défaut de santé</Doberkin_GeneticHealthDeficientcy.labelShortAdj>
+    <Doberkin_GeneticHealthDeficientcy.description>Les porteurs de ce gène possèdent un défaut génétique de santé : ils guérissent plus lentement et développent leur immunité moins rapidement.</Doberkin_GeneticHealthDeficientcy.description>
 </LanguageData>

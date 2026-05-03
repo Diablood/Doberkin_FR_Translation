@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
     <Animal_Doberman.label>doberman</Animal_Doberman.label>
-    <Animal_Doberman.description>Genetically engineered pet for domestic and military needs. At home, the doberman guards the household against any potential intruders, for instance in the urbworld environment of the doberman federation, the presence of dobermans were very common in order to ward off thieves or providing enough time till the owner can grab their gun and execute the thieves.\n\nIn the military, dobermans were used as attack dogs. Mostly seen in the battlefield rushing through enemy trenches and ripping off the enemy's throat all while clad in either kevlar vests or a personal suit of protect gear armor.</Animal_Doberman.description>
-    <Animal_Doberman.tools.li.label>left claw</Animal_Doberman.tools.li.label>
+    <Animal_Doberman.description>Animal domestique génétiquement modifié pour des usages civils et militaires. En contexte domestique, le doberman protège le foyer contre les intrus. Dans les environnements urbains de la Fédération doberman, sa présence était courante pour dissuader les voleurs ou laisser au propriétaire le temps de saisir une arme et de les abattre.
+
+Au sein des forces armées, les dobermans étaient utilisés comme unités d’attaque. On les voyait fréquemment sur le champ de bataille se ruer dans les tranchées ennemies et égorger leurs adversaires, souvent équipés d’un gilet pare-balles ou d’une armure de protection pour unité canine.
+</Animal_Doberman.description>
+    <Animal_Doberman.tools.li.label>griffe gauche</Animal_Doberman.tools.li.label>
 </LanguageData>

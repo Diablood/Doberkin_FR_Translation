@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <Doberkin_BallisticShieldz.label>ballistic bouclier</Doberkin_BallisticShieldz.label>
-    <Doberkin_BallisticShieldz.description>An old and basic protective gear which still persists to this day. Now reinforced with a moderate layer of plasteel, the ballistic shield can effectively protect it's user from most of lethal small-arms damage.</Doberkin_BallisticShieldz.description>
-    <Doberkin_BallisticShieldz_AntiPersonel.label>"Anti-personel" ballistic bouclier</Doberkin_BallisticShieldz_AntiPersonel.label>
-    <Doberkin_BallisticShieldz_AntiPersonel.description>An advanced version of the ballistic shield. This new form of protective equipment can absorb 75 points of damage before the enemy can damage the actual shield itself, which would then allow the shield to repair itself if the wielder avoid combat for a set amout of time.</Doberkin_BallisticShieldz_AntiPersonel.description>
+    <Doberkin_BallisticShieldz.label>bouclier balistique</Doberkin_BallisticShieldz.label>
+    <Doberkin_BallisticShieldz.description>Un équipement de protection ancien et basique qui existe encore aujourd’hui. Désormais renforcé par une couche modérée de plasteel, le bouclier balistique peut protéger efficacement son utilisateur contre la plupart des dégâts mortels des armes légères.</Doberkin_BallisticShieldz.description>
+    <Doberkin_BallisticShieldz_AntiPersonel.label>bouclier balistique antipersonnel</Doberkin_BallisticShieldz_AntiPersonel.label>
+    <Doberkin_BallisticShieldz_AntiPersonel.description>Une version avancée du bouclier balistique. Cette nouvelle forme d’équipement de protection peut absorber 75 points de dégâts avant que l’ennemi ne puisse endommager le bouclier lui-même, ce qui lui permet ensuite de se réparer si le porteur évite le combat pendant un certain temps.</Doberkin_BallisticShieldz_AntiPersonel.description>
 </LanguageData>

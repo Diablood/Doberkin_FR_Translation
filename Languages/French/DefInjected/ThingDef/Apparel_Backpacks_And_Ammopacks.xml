@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <Doberkin_Apparel_Backpack_Small.label>doberkin sac à dos</Doberkin_Apparel_Backpack_Small.label>
-    <Doberkin_Apparel_Backpack_Small.description>A standard doberkin sac à dos which offers optimal carry capacity for storing all kinds of items.</Doberkin_Apparel_Backpack_Small.description>
-    <Doberkin_Apparel_KineticAmmoPack.label>cinétique ammo sac</Doberkin_Apparel_KineticAmmoPack.label>
-    <Doberkin_Apparel_KineticAmmoPack.description>A steel-framed backpack reinforced wtih kevlar, mainly used to store 850 rounds of ammunition for the exclusive use of doberkin heavy weapons.</Doberkin_Apparel_KineticAmmoPack.description>
+    <Doberkin_Apparel_Backpack_Small.label>sac à dos doberkin</Doberkin_Apparel_Backpack_Small.label>
+    <Doberkin_Apparel_Backpack_Small.description>Un sac à dos doberkin standard offrant une capacité de port optimale pour stocker toutes sortes d’objets.</Doberkin_Apparel_Backpack_Small.description>
+    <Doberkin_Apparel_KineticAmmoPack.label>sac de munitions cinétiques</Doberkin_Apparel_KineticAmmoPack.label>
+    <Doberkin_Apparel_KineticAmmoPack.description>Un sac à dos à armature en acier renforcé de kevlar, principalement utilisé pour stocker 850 cartouches de munitions destinées exclusivement aux armes lourdes doberkin.</Doberkin_Apparel_KineticAmmoPack.description>
     <Doberkin_Apparel_BatteryPack.label>pack d’énergie avancé DFSD</Doberkin_Apparel_BatteryPack.label>
-    <Doberkin_Apparel_BatteryPack.description>A pack of microfusion battery reinforced with layers of plasteel plates, capable of storing 500 points of energy for the exclusive use of doberkin energy weapons.</Doberkin_Apparel_BatteryPack.description>
-    <Doberkin_Apparel_MicrofusionPack.label>ADV microfusion sac</Doberkin_Apparel_MicrofusionPack.label>
-    <Doberkin_Apparel_MicrofusionPack.description>A sac à dos primarily used to store ammunition for énergie-type lourd weapons, capable of storing 50 microfusion cells.</Doberkin_Apparel_MicrofusionPack.description>
+    <Doberkin_Apparel_BatteryPack.description>Un pack de batteries à microfusion renforcé par des couches de plaques de plasteel, capable de stocker 500 points d’énergie pour l’usage exclusif des armes énergétiques doberkin.</Doberkin_Apparel_BatteryPack.description>
+    <Doberkin_Apparel_MicrofusionPack.label>sac à microfusion avancé</Doberkin_Apparel_MicrofusionPack.label>
+    <Doberkin_Apparel_MicrofusionPack.description>Un sac à dos principalement utilisé pour stocker les munitions des armes lourdes de type énergétique, capable de contenir 50 cellules à microfusion.</Doberkin_Apparel_MicrofusionPack.description>
 </LanguageData>

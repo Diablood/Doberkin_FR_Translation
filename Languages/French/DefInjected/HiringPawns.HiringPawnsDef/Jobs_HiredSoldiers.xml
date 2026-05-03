@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <Doberkin_HireSoldiers.label>Hire private security forces</Doberkin_HireSoldiers.label>
-    <Doberkin_HireSoldiers.hiringOptions.li.label>Bodyguards $1,500</Doberkin_HireSoldiers.hiringOptions.li.label>
+    <Doberkin_HireSoldiers.label>Engager des forces de sécurité privées</Doberkin_HireSoldiers.label>
+    <Doberkin_HireSoldiers.hiringOptions.li.label>Gardes du corps 1 500 $</Doberkin_HireSoldiers.hiringOptions.li.label>
 </LanguageData>

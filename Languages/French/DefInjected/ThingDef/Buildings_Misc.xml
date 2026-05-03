@@ -2,8 +2,8 @@
 <LanguageData>
     <Doberkin_MultiAnalyzer.label>multi-analyseur DF</Doberkin_MultiAnalyzer.label>
     <Doberkin_MultiAnalyzer.description>Une machine de recherche sophistiquée dotée de plusieurs banques de données reliées au serveur central. Elle contient des connaissances cruciales sur les innovations doberkin, des plus anciennes aux plus récentes.\n\nCette technologie est si vitale qu’elle ne peut être obtenue qu’auprès de la Fédération doberman.</Doberkin_MultiAnalyzer.description>
-    <Mini_ChemfuelGenerator.label>mini industrial générateur</Mini_ChemfuelGenerator.label>
-    <Mini_ChemfuelGenerator.description>A prototype chemfuel generator that served as an initial design for the more streamlined industrial generators used by the doberman federation.</Mini_ChemfuelGenerator.description>
+    <Mini_ChemfuelGenerator.label>mini-générateur industriel</Mini_ChemfuelGenerator.label>
+    <Mini_ChemfuelGenerator.description>Un prototype de générateur au chimiocarburant ayant servi de conception initiale aux générateurs industriels plus rationalisés utilisés par la Fédération doberman.</Mini_ChemfuelGenerator.description>
     <AutoRationPrinter.label>imprimante automatique de rations</AutoRationPrinter.label>
     <AutoRationPrinter.description>Une machine automatisée destinée à produire rapidement des rations doberkin.</AutoRationPrinter.description>
 </LanguageData>

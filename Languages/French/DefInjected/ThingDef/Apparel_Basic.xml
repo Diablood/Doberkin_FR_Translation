@@ -4,10 +4,10 @@
     <Doberkin_Apparel_Jumpsuit.description>Une combinaison standard portée par les doberkins. Elle offre une protection minimale mais augmente légèrement la vitesse de déplacement grâce à des micro-rotors.</Doberkin_Apparel_Jumpsuit.description>
     <Doberkin_Apparel_TacticalVest.label>gilet doberkin</Doberkin_Apparel_TacticalVest.label>
     <Doberkin_Apparel_TacticalVest.description>Un gilet de protection moderne qui protège le torse et le cou. Légèrement inférieur aux gilets pare-balles classiques, mais naturellement peu coûteux à fabriquer.</Doberkin_Apparel_TacticalVest.description>
-    <Doberkin_Apparel_TacticalRigging_Light.label>léger tactical webbing</Doberkin_Apparel_TacticalRigging_Light.label>
-    <Doberkin_Apparel_TacticalRigging_Light.description>One of the common loadbearing vest worn by military personels and mercenaries alike. Mainly used to store ammunition and equipment for long term military operations.</Doberkin_Apparel_TacticalRigging_Light.description>
-    <Doberkin_Apparel_TacticalRigging_Heavy.label>lourd tactical webbing</Doberkin_Apparel_TacticalRigging_Heavy.label>
-    <Doberkin_Apparel_TacticalRigging_Heavy.description>A variant of the light tactical webbing, now with more pouches for increased carrying capacity, though it slightly lowers movement speed.</Doberkin_Apparel_TacticalRigging_Heavy.description>
+    <Doberkin_Apparel_TacticalRigging_Light.label>harnais tactique léger</Doberkin_Apparel_TacticalRigging_Light.label>
+    <Doberkin_Apparel_TacticalRigging_Light.description>L’un des gilets de portage les plus courants, porté aussi bien par le personnel militaire que par les mercenaires. Il sert principalement à stocker des munitions et de l’équipement pour les opérations militaires de longue durée.</Doberkin_Apparel_TacticalRigging_Light.description>
+    <Doberkin_Apparel_TacticalRigging_Heavy.label>harnais tactique lourd</Doberkin_Apparel_TacticalRigging_Heavy.label>
+    <Doberkin_Apparel_TacticalRigging_Heavy.description>Une variante du harnais tactique léger, équipée de davantage de poches pour augmenter la capacité de port, au prix d’une légère réduction de la vitesse de déplacement.</Doberkin_Apparel_TacticalRigging_Heavy.description>
     <Doberkin_Apparel_BallisticHelmet.label>casque doberkin</Doberkin_Apparel_BallisticHelmet.label>
     <Doberkin_Apparel_BallisticHelmet.description>Un casque balistique standard porté par les doberkins.</Doberkin_Apparel_BallisticHelmet.description>
     <Doberkin_Apparel_Balaclava.label>cagoule doberkin</Doberkin_Apparel_Balaclava.label>
@@ -16,6 +16,6 @@
     <Doberkin_GlovesReinforced.description>Une paire de gants renforcés, couramment portés par les mercenaires et ceux qui servent dans les forces militaires.</Doberkin_GlovesReinforced.description>
     <Doberkin_BootsReinforced.label>bottes renforcées</Doberkin_BootsReinforced.label>
     <Doberkin_BootsReinforced.description>Une paire de bottes renforcées, couramment portées par les mercenaires et ceux qui servent dans les forces militaires.</Doberkin_BootsReinforced.description>
-    <Doberkin_Apparel_NeckProtector.label>doberkin neck protector</Doberkin_Apparel_NeckProtector.label>
-    <Doberkin_Apparel_NeckProtector.description>A basique protective gear that protects the wearer's neck against physical attacks.</Doberkin_Apparel_NeckProtector.description>
+    <Doberkin_Apparel_NeckProtector.label>protège-cou doberkin</Doberkin_Apparel_NeckProtector.label>
+    <Doberkin_Apparel_NeckProtector.description>Un équipement de protection basique qui protège le cou du porteur contre les attaques physiques.</Doberkin_Apparel_NeckProtector.description>
 </LanguageData>

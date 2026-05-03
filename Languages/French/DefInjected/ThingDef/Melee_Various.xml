@@ -2,17 +2,17 @@
 <LanguageData>
     <Melee_DMW_Tomahawk.label>DMW Tomahawk</Melee_DMW_Tomahawk.label>
     <Melee_DMW_Tomahawk.description>Une arme du vieux monde qui existe encore aujourd’hui, désormais améliorée pour rester pertinente sur le marché actuel des armes de mêlée.</Melee_DMW_Tomahawk.description>
-    <Melee_DMW_Tomahawk.tools.li.label>handle</Melee_DMW_Tomahawk.tools.li.label>
+    <Melee_DMW_Tomahawk.tools.li.label>manche</Melee_DMW_Tomahawk.tools.li.label>
     <Melee_DMW_Katana.label>DMW Katana</Melee_DMW_Katana.label>
     <Melee_DMW_Katana.description>Une autre arme du vieux monde, désormais améliorée avec une meilleure prise en main et un tranchant de lame en plasteel.</Melee_DMW_Katana.description>
-    <Melee_DMW_Katana.tools.li.label>handle</Melee_DMW_Katana.tools.li.label>
+    <Melee_DMW_Katana.tools.li.label>poignée</Melee_DMW_Katana.tools.li.label>
     <Melee_DMW_Machete.label>DMW Machette</Melee_DMW_Machete.label>
     <Melee_DMW_Machete.description>Une autre arme du vieux monde. Initialement conçue pour débroussailler les mauvaises herbes et les arbres envahissants, elle sert désormais à trancher la tête des ennemis.</Melee_DMW_Machete.description>
-    <Melee_DMW_Machete.tools.li.label>handle</Melee_DMW_Machete.tools.li.label>
+    <Melee_DMW_Machete.tools.li.label>poignée</Melee_DMW_Machete.tools.li.label>
     <Melee_DMW_ImpactHammer.label>DMW Marteau d’impact</Melee_DMW_ImpactHammer.label>
     <Melee_DMW_ImpactHammer.description>Un marteau de démolition propulsé par fusée, conçu spécialement pour détruire les structures franchissables ou non, mais aussi pour fracasser les ennemis comme une balle de baseball. À l’impact, la cible peut être projetée sur au moins 7 cases, subissant de lourds dégâts contondants avec une chance d’être étourdie, et des dégâts massifs supplémentaires si elle percute un mur ou une autre structure infranchissable.</Melee_DMW_ImpactHammer.description>
-    <Melee_DMW_ImpactHammer.tools.li.label>hammer head</Melee_DMW_ImpactHammer.tools.li.label>
+    <Melee_DMW_ImpactHammer.tools.li.label>tête de marteau</Melee_DMW_ImpactHammer.tools.li.label>
     <Melee_DMW_ThermoSword.label>DMW Épée thermique</Melee_DMW_ThermoSword.label>
     <Melee_DMW_ThermoSword.description>Une épée dotée d’un dispositif d’amplification thermique relié à son tranchant, capable de tailler dans les ennemis organiques avec de fortes chances de les enflammer.\n\nCette arme a été conçue comme une alternative viable aux épées plasmas impériales.</Melee_DMW_ThermoSword.description>
-    <Melee_DMW_ThermoSword.tools.li.label>handle</Melee_DMW_ThermoSword.tools.li.label>
+    <Melee_DMW_ThermoSword.tools.li.label>poignée</Melee_DMW_ThermoSword.tools.li.label>
 </LanguageData>

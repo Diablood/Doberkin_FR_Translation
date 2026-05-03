@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <Doberkin_TableMachining.label>hybrid machining table</Doberkin_TableMachining.label>
-    <Doberkin_TableMachining.description>A hybrid work station that functions as a tailoring bench and a machining table, allowing anyone to manufacture the basic hardware and gear of the doberman federation.</Doberkin_TableMachining.description>
-    <Doberkin_FabricationBench.label>hybrid fabrication établi</Doberkin_FabricationBench.label>
-    <Doberkin_FabricationBench.description>A hybrid workbench that is equipped with sophisticated tools, which allows talented crafters to manufacture advanced hardware and gears of the doberman federation.</Doberkin_FabricationBench.description>
+    <Doberkin_TableMachining.label>table d’usinage hybride</Doberkin_TableMachining.label>
+    <Doberkin_TableMachining.description>Un poste de travail hybride faisant office d’établi de couture et de table d’usinage, permettant de fabriquer le matériel et l’équipement de base de la Fédération doberman.</Doberkin_TableMachining.description>
+    <Doberkin_FabricationBench.label>établi de fabrication hybride</Doberkin_FabricationBench.label>
+    <Doberkin_FabricationBench.description>Un établi hybride équipé d’outils sophistiqués, permettant aux artisans qualifiés de fabriquer le matériel et les équipements avancés de la Fédération doberman.</Doberkin_FabricationBench.description>
 </LanguageData>

@@ -4,20 +4,20 @@
     <Doberkin_Apparel_Protectgear_BodyArmor.description>Une armure de combat de couche intermédiaire portée par les soldats lourds de la Fédération doberman. Cette armure protège le corps à l’aide de plaques de plasteel, y compris les zones vulnérables, et elle est équipée d’un exosquelette GEN 1 qui confère au porteur une force supérieure aux capacités humaines.</Doberkin_Apparel_Protectgear_BodyArmor.description>
     <Doberkin_Apparel_Protectgear_Pauldrons.label>épaulières doberkin T1</Doberkin_Apparel_Protectgear_Pauldrons.label>
     <Doberkin_Apparel_Protectgear_Pauldrons.description>Une version renforcée des épaulières doberkin.</Doberkin_Apparel_Protectgear_Pauldrons.description>
-    <Doberkin_Apparel_BallisticHelmet_Tactical.label>doberkin tactical casque</Doberkin_Apparel_BallisticHelmet_Tactical.label>
-    <Doberkin_Apparel_BallisticHelmet_Tactical.description>A variant of the doberkin ballistic helmet, modified with gadgets that may help the wearer in combat.</Doberkin_Apparel_BallisticHelmet_Tactical.description>
-    <Doberkin_Apparel_BallisticHelmet_TacticalFacemask.label>doberkin avancé tactical casque</Doberkin_Apparel_BallisticHelmet_TacticalFacemask.label>
-    <Doberkin_Apparel_BallisticHelmet_TacticalFacemask.description>A variant of the doberkin tactical ballistic helmet. now equipped with an armored facemask that provides minimum protection against physical damage and toxic hazards.</Doberkin_Apparel_BallisticHelmet_TacticalFacemask.description>
-    <Doberkin_Apparel_BallisticHelmet_TacticalReinforced.label>doberkin reinforced tactical casque</Doberkin_Apparel_BallisticHelmet_TacticalReinforced.label>
-    <Doberkin_Apparel_BallisticHelmet_TacticalReinforced.description>A variant of the doberkin tactical ballistic helmet. Now heavily reinforced with plasteel plates which offers optimal amounts of protection, and rigged with advanced tech which greatly aid the wearer in combat.</Doberkin_Apparel_BallisticHelmet_TacticalReinforced.description>
-    <Doberkin_Apparel_Balaclava_Reinforced.label>doberkin reinforced balaclava</Doberkin_Apparel_Balaclava_Reinforced.label>
-    <Doberkin_Apparel_Balaclava_Reinforced.description>A balaclava reinforced with plasteel plates. This variant of the balaclava offers a slight increase to blunt protection towards the vulnerable parts of the head, which are the backhead and forehead.</Doberkin_Apparel_Balaclava_Reinforced.description>
-    <Doberkin_Apparel_Balaclava_Sniper.label>doberkin tireur d’élite balaclava</Doberkin_Apparel_Balaclava_Sniper.label>
-    <Doberkin_Apparel_Balaclava_Sniper.description>A modified version of the balaclava. Equipped with a cranial stabilizaer which aids a marksman's shooting capabilities, the overall accuracy of ranged weapons have been increased significantly.</Doberkin_Apparel_Balaclava_Sniper.description>
+    <Doberkin_Apparel_BallisticHelmet_Tactical.label>casque tactique doberkin</Doberkin_Apparel_BallisticHelmet_Tactical.label>
+    <Doberkin_Apparel_BallisticHelmet_Tactical.description>Une variante du casque balistique doberkin, modifiée avec des gadgets pouvant aider le porteur au combat.</Doberkin_Apparel_BallisticHelmet_Tactical.description>
+    <Doberkin_Apparel_BallisticHelmet_TacticalFacemask.label>casque tactique avancé doberkin</Doberkin_Apparel_BallisticHelmet_TacticalFacemask.label>
+    <Doberkin_Apparel_BallisticHelmet_TacticalFacemask.description>Une variante du casque balistique tactique doberkin, désormais équipée d’un masque facial blindé offrant une protection minimale contre les dégâts physiques et les dangers toxiques.</Doberkin_Apparel_BallisticHelmet_TacticalFacemask.description>
+    <Doberkin_Apparel_BallisticHelmet_TacticalReinforced.label>casque tactique renforcé doberkin</Doberkin_Apparel_BallisticHelmet_TacticalReinforced.label>
+    <Doberkin_Apparel_BallisticHelmet_TacticalReinforced.description>Une variante du casque balistique tactique doberkin, lourdement renforcée avec des plaques de plasteel. Elle offre une protection optimale et intègre une technologie avancée qui aide grandement le porteur au combat.</Doberkin_Apparel_BallisticHelmet_TacticalReinforced.description>
+    <Doberkin_Apparel_Balaclava_Reinforced.label>cagoule renforcée doberkin</Doberkin_Apparel_Balaclava_Reinforced.label>
+    <Doberkin_Apparel_Balaclava_Reinforced.description>Une cagoule renforcée avec des plaques de plasteel. Cette variante offre une légère amélioration de la protection contondante sur les parties vulnérables de la tête, notamment l’arrière du crâne et le front.</Doberkin_Apparel_Balaclava_Reinforced.description>
+    <Doberkin_Apparel_Balaclava_Sniper.label>cagoule de tireur d’élite doberkin</Doberkin_Apparel_Balaclava_Sniper.label>
+    <Doberkin_Apparel_Balaclava_Sniper.description>Une version modifiée de la cagoule. Équipée d’un stabilisateur crânien qui aide les tireurs de précision, elle augmente considérablement la précision globale des armes à distance.</Doberkin_Apparel_Balaclava_Sniper.description>
     <Doberkin_GlovesAdvanced.label>gants avancés</Doberkin_GlovesAdvanced.label>
     <Doberkin_GlovesAdvanced.description>Une paire de gants avancés, portés par des combattants vétérans et des guerriers d'élite de la Fédération doberman.</Doberkin_GlovesAdvanced.description>
     <Doberkin_BootsAdvanced.label>bottes avancées</Doberkin_BootsAdvanced.label>
     <Doberkin_BootsAdvanced.description>Une paire de bottes avancées, portées par des combattants vétérans et des guerriers d'élite de la Fédération doberman.</Doberkin_BootsAdvanced.description>
-    <Doberkin_Apparel_NeckProtector_ADV.label>doberkin neck protector "with pouch"</Doberkin_Apparel_NeckProtector_ADV.label>
-    <Doberkin_Apparel_NeckProtector_ADV.description>An alternate version of the standard neck protector, now offers more protection and an increase in carry capacity.</Doberkin_Apparel_NeckProtector_ADV.description>
+    <Doberkin_Apparel_NeckProtector_ADV.label>protège-cou doberkin « avec poche »</Doberkin_Apparel_NeckProtector_ADV.label>
+    <Doberkin_Apparel_NeckProtector_ADV.description>Une version alternative du protège-cou standard, offrant désormais davantage de protection et une capacité de port accrue.</Doberkin_Apparel_NeckProtector_ADV.description>
 </LanguageData>

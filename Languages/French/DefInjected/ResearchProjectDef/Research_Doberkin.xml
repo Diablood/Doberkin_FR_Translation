@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <Doberkin_BasicManufacture.label>basique manufacturing process</Doberkin_BasicManufacture.label>
-    <Doberkin_BasicManufacture.description>Start you journey of learning to manufacture doberkin tech with the basique manufacturing process.</Doberkin_BasicManufacture.description>
+    <Doberkin_BasicManufacture.label>procédé de fabrication basique</Doberkin_BasicManufacture.label>
+    <Doberkin_BasicManufacture.description>Commencez votre apprentissage de la fabrication de technologies doberkin avec le procédé de fabrication basique.</Doberkin_BasicManufacture.description>
     <Doberkin_BasicProtectives.label>protections basiques</Doberkin_BasicProtectives.label>
     <Doberkin_BasicProtectives.description>Apprend à fabriquer l’équipement tactique de base porté par les doberkins.</Doberkin_BasicProtectives.description>
     <Doberkin_CivilianApparels.label>vêtements civils</Doberkin_CivilianApparels.label>
     <Doberkin_CivilianApparels.description>Apprend à fabriquer certains vêtements de base portés par la majorité de la population doberkin de la Fédération doberman.</Doberkin_CivilianApparels.description>
-    <Doberkin_BasicKinetics.label>basique cinétique weapons</Doberkin_BasicKinetics.label>
-    <Doberkin_BasicKinetics.description>Learn how to manufacture basique cinétique firearms, commonly used by the doberkin army.</Doberkin_BasicKinetics.description>
-    <Doberkin_BasicMelee.label>basique melee weapons</Doberkin_BasicMelee.label>
-    <Doberkin_BasicMelee.description>Learn how to manufacture basique melee weapons, commonly used by the doberkin army.</Doberkin_BasicMelee.description>
-    <Doberkin_Ration.label>DF meat ration</Doberkin_Ration.label>
-    <Doberkin_Ration.description>Learn how to cook some DF meat rations, a staple food item of the doberman federation.</Doberkin_Ration.description>
-    <Doberkin_DobermanApparel.label>doberman apparels</Doberkin_DobermanApparel.label>
-    <Doberkin_DobermanApparel.description>Learn how to craft some simple apparels for dobermans.</Doberkin_DobermanApparel.description>
-    <Doberkin_AdvancedManufacture.label>avancé manufacturing process</Doberkin_AdvancedManufacture.label>
-    <Doberkin_AdvancedManufacture.description>Now you've learned the basique manufacturing processes, it's time to move up to avancé manufacturing processes.</Doberkin_AdvancedManufacture.description>
-    <Doberkin_AdvancedFabrication.label>avancé fabrication process</Doberkin_AdvancedFabrication.label>
-    <Doberkin_AdvancedFabrication.description>Allows you to learn how to fabricate doberkin avancé component.</Doberkin_AdvancedFabrication.description>
-    <Doberkin_AdvancedVisors.label>visors</Doberkin_AdvancedVisors.label>
-    <Doberkin_AdvancedVisors.description>Learn how to manufacture a viriety of combat visors capable of turning the tide of any battlefield.</Doberkin_AdvancedVisors.description>
-    <Doberkin_AdvasncedKinetics.label>avancé cinétique weapons</Doberkin_AdvasncedKinetics.label>
-    <Doberkin_AdvasncedKinetics.description>Learn how to manufacture avancé cinétique firearms, commonly used by élite doberkin operators.</Doberkin_AdvasncedKinetics.description>
-    <Doberkin_AdvancedMelee.label>avancé melee weapons</Doberkin_AdvancedMelee.label>
-    <Doberkin_AdvancedMelee.description>Learn how to manufacture avancé melee weapons, commonly used by élite doberkin operators.</Doberkin_AdvancedMelee.description>
+    <Doberkin_BasicKinetics.label>armes cinétiques basiques</Doberkin_BasicKinetics.label>
+    <Doberkin_BasicKinetics.description>Apprend à fabriquer des armes à feu cinétiques basiques, couramment utilisées par l’armée doberkin.</Doberkin_BasicKinetics.description>
+    <Doberkin_BasicMelee.label>armes de mêlée basiques</Doberkin_BasicMelee.label>
+    <Doberkin_BasicMelee.description>Apprend à fabriquer des armes de mêlée basiques, couramment utilisées par l’armée doberkin.</Doberkin_BasicMelee.description>
+    <Doberkin_Ration.label>ration de viande DF</Doberkin_Ration.label>
+    <Doberkin_Ration.description>Apprend à cuisiner des rations de viande DF, un aliment de base de la Fédération doberman.</Doberkin_Ration.description>
+    <Doberkin_DobermanApparel.label>équipements pour dobermans</Doberkin_DobermanApparel.label>
+    <Doberkin_DobermanApparel.description>Apprend à fabriquer des équipements simples pour dobermans.</Doberkin_DobermanApparel.description>
+    <Doberkin_AdvancedManufacture.label>procédé de fabrication avancé</Doberkin_AdvancedManufacture.label>
+    <Doberkin_AdvancedManufacture.description>Maintenant que vous maîtrisez les procédés de fabrication basiques, il est temps de passer aux procédés de fabrication avancés.</Doberkin_AdvancedManufacture.description>
+    <Doberkin_AdvancedFabrication.label>procédé d’assemblage avancé</Doberkin_AdvancedFabrication.label>
+    <Doberkin_AdvancedFabrication.description>Permet d’apprendre à fabriquer des composants avancés doberkin.</Doberkin_AdvancedFabrication.description>
+    <Doberkin_AdvancedVisors.label>viseurs</Doberkin_AdvancedVisors.label>
+    <Doberkin_AdvancedVisors.description>Apprend à fabriquer divers viseurs de combat capables de renverser le cours de n’importe quel champ de bataille.</Doberkin_AdvancedVisors.description>
+    <Doberkin_AdvasncedKinetics.label>armes cinétiques avancées</Doberkin_AdvasncedKinetics.label>
+    <Doberkin_AdvasncedKinetics.description>Apprend à fabriquer des armes à feu cinétiques avancées, couramment utilisées par les opérateurs doberkin d’élite.</Doberkin_AdvasncedKinetics.description>
+    <Doberkin_AdvancedMelee.label>armes de mêlée avancées</Doberkin_AdvancedMelee.label>
+    <Doberkin_AdvancedMelee.description>Apprend à fabriquer des armes de mêlée avancées, couramment utilisées par les opérateurs doberkin d’élite.</Doberkin_AdvancedMelee.description>
     <Doberkin_AdvancedProtectives.label>protections avancées</Doberkin_AdvancedProtectives.label>
     <Doberkin_AdvancedProtectives.description>Apprend à fabriquer des protections avancées doberkin.</Doberkin_AdvancedProtectives.description>
     <Doberkin_AV.label>véhicule aérien</Doberkin_AV.label>
     <Doberkin_AV.description>Apprend à construire le véhicule aérien intercontinental des doberkins.</Doberkin_AV.description>
-    <Doberkin_DobermanApparel_Advanced.label>avancé doberman apparels</Doberkin_DobermanApparel_Advanced.label>
-    <Doberkin_DobermanApparel_Advanced.description>Learn how to craft some avancé apparels for dobermans.</Doberkin_DobermanApparel_Advanced.description>
+    <Doberkin_DobermanApparel_Advanced.label>équipements avancés pour dobermans</Doberkin_DobermanApparel_Advanced.label>
+    <Doberkin_DobermanApparel_Advanced.description>Apprend à fabriquer des équipements avancés pour dobermans.</Doberkin_DobermanApparel_Advanced.description>
     <Doberkin_EnergyWeapons.label>armes énergétiques doberkin</Doberkin_EnergyWeapons.label>
     <Doberkin_EnergyWeapons.description>Apprend à fabriquer des armes énergétiques avancées de la Fédération doberman.</Doberkin_EnergyWeapons.description>
-    <Doberkin_PulseWeapons.label>à impulsion weapons</Doberkin_PulseWeapons.label>
-    <Doberkin_PulseWeapons.description>Learn how to manufacture weapons exclusively used by élite warriors of the doberman federation.</Doberkin_PulseWeapons.description>
-    <Doberkin_HighCommander.label>high commandant gears</Doberkin_HighCommander.label>
-    <Doberkin_HighCommander.description>Learn how to manufacture gears used by the respected high commanders.</Doberkin_HighCommander.description>
+    <Doberkin_PulseWeapons.label>armes à impulsion</Doberkin_PulseWeapons.label>
+    <Doberkin_PulseWeapons.description>Apprend à fabriquer des armes exclusivement utilisées par les guerriers d’élite de la Fédération doberman.</Doberkin_PulseWeapons.description>
+    <Doberkin_HighCommander.label>équipement de haut commandant</Doberkin_HighCommander.label>
+    <Doberkin_HighCommander.description>Apprend à fabriquer l’équipement utilisé par les hauts commandants respectés.</Doberkin_HighCommander.description>
 </LanguageData>
