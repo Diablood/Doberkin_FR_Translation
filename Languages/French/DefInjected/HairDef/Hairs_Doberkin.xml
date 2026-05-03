@@ -1,18 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <Doberkin.label>Coiffure doberkin</Doberkin.label>
-    <Doberkin_Male_HairA.label>cheveux masculins doberkin A</Doberkin_Male_HairA.label>
-    <Doberkin_Male_HairB.label>cheveux masculins doberkin B</Doberkin_Male_HairB.label>
-    <Doberkin_Male_HairC.label>cheveux masculins doberkin C</Doberkin_Male_HairC.label>
-    <Doberkin_Male_HairD.label>cheveux masculins doberkin D</Doberkin_Male_HairD.label>
-    <Doberkin_Male_HairE.label>cheveux masculins doberkin E</Doberkin_Male_HairE.label>
-    <Doberkin_Male_HairF.label>cheveux masculins doberkin F</Doberkin_Male_HairF.label>
-    <Doberkin_Male_HairG.label>cheveux masculins doberkin G</Doberkin_Male_HairG.label>
-    <Doberkin_Female_HairA.label>cheveux féminins doberkin A</Doberkin_Female_HairA.label>
-    <Doberkin_Female_HairB.label>cheveux féminins doberkin B</Doberkin_Female_HairB.label>
-    <Doberkin_Female_HairC.label>cheveux féminins doberkin C</Doberkin_Female_HairC.label>
-    <Doberkin_Female_HairD.label>cheveux féminins doberkin D</Doberkin_Female_HairD.label>
-    <Doberkin_Female_HairE.label>cheveux féminins doberkin E</Doberkin_Female_HairE.label>
-    <Doberkin_Female_HairF.label>cheveux féminins doberkin F</Doberkin_Female_HairF.label>
-    <Doberkin_Female_HairG.label>cheveux féminins doberkin G</Doberkin_Female_HairG.label>
+    <Doberkin_Male_HairA.label>coiffure doberkin mâle A</Doberkin_Male_HairA.label>
+    <Doberkin_Male_HairB.label>coiffure doberkin mâle B</Doberkin_Male_HairB.label>
+    <Doberkin_Male_HairC.label>coiffure doberkin mâle C</Doberkin_Male_HairC.label>
+    <Doberkin_Male_HairD.label>coiffure doberkin mâle D</Doberkin_Male_HairD.label>
+    <Doberkin_Male_HairE.label>coiffure doberkin mâle E</Doberkin_Male_HairE.label>
+    <Doberkin_Male_HairF.label>coiffure doberkin mâle F</Doberkin_Male_HairF.label>
+    <Doberkin_Male_HairG.label>coiffure doberkin mâle G</Doberkin_Male_HairG.label>
+    <Doberkin_Female_HairA.label>coiffure doberkin femelle A</Doberkin_Female_HairA.label>
+    <Doberkin_Female_HairB.label>coiffure doberkin femelle B</Doberkin_Female_HairB.label>
+    <Doberkin_Female_HairC.label>coiffure doberkin femelle C</Doberkin_Female_HairC.label>
+    <Doberkin_Female_HairD.label>coiffure doberkin femelle D</Doberkin_Female_HairD.label>
+    <Doberkin_Female_HairE.label>coiffure doberkin femelle E</Doberkin_Female_HairE.label>
+    <Doberkin_Female_HairF.label>coiffure doberkin femelle F</Doberkin_Female_HairF.label>
+    <Doberkin_Female_HairG.label>coiffure doberkin femelle G</Doberkin_Female_HairG.label>
 </LanguageData>

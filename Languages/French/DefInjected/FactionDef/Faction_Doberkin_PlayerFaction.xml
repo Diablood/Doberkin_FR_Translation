@@ -1,6 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
     <Doberkin_PlayerFaction.label>nouvelle colonie</Doberkin_PlayerFaction.label>
     <Doberkin_PlayerFaction.description>Une colonie doberkin nouvellement établie.</Doberkin_PlayerFaction.description>
-    <Doberkin_PlayerFaction.pawnSingular>Colon</Doberkin_PlayerFaction.pawnSingular>
+    <Doberkin_PlayerFaction.pawnSingular>doberkin</Doberkin_PlayerFaction.pawnSingular>
+    <Doberkin_PlayerFaction.pawnsPlural>doberkins</Doberkin_PlayerFaction.pawnsPlural>
 </LanguageData>

@@ -1,13 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <DoberProtectgear_Buff.label>Bonus de commandant bouclier</DoberProtectgear_Buff.label>
-    <DoberProtectgear_Buff.description>Effet spécial accordé par le port d’un ensemble complet d’équipement de commandant-bouclier doberkin, améliorant encore davantage la maîtrise des armes conventionnelles ainsi que de celles utilisées par la Fédération doberman.</DoberProtectgear_Buff.description>
     <DogCollar.label>collier pour chien</DogCollar.label>
-    <DogCollar.description>Un collier pour chien qui s'ajuste bien autour du cou.</DogCollar.description>
-    <Doberkin_AlphaHowl_Hediff.label>Aura alpha</Doberkin_AlphaHowl_Hediff.label>
+    <DogCollar.description>Un collier pour chien ajusté autour du cou.</DogCollar.description>
+    <Doberkin_AlphaHowl_Hediff.label>aura alpha</Doberkin_AlphaHowl_Hediff.label>
     <Doberkin_AlphaHowl_Hediff.description>Les doberkins alentour sont galvanisés par le hurlement alpha.</Doberkin_AlphaHowl_Hediff.description>
+    <Doberkin_AlphaHowl_Hediff.stages.li.label>Empowering</Doberkin_AlphaHowl_Hediff.stages.li.label>
     <Doberkin_AlphaHowl_CommonBuff.label>Boost d'aura alpha</Doberkin_AlphaHowl_CommonBuff.label>
     <Doberkin_AlphaHowl_CommonBuff.description>Un bonus spécial invoqué par un alpha doberkin.</Doberkin_AlphaHowl_CommonBuff.description>
-    <NeuroDegradation.label>dégradation neuronale</NeuroDegradation.label>
-    <NeuroDegradation.labelNoun>une maladie neurale</NeuroDegradation.labelNoun>
+    <Doberkin_AlphaHowl_CommonBuff.stages.li.label>Empowered</Doberkin_AlphaHowl_CommonBuff.stages.li.label>
+    <Doberman_KevlarArmor.label>doberman kevlar armure</Doberman_KevlarArmor.label>
+    <Doberman_KevlarArmor.description>A protective piece of doberman kevlar armure and helmet.</Doberman_KevlarArmor.description>
+    <Doberman_KevlarArmor.stages.li.label>Armored</Doberman_KevlarArmor.stages.li.label>
+    <Doberman_Protectgear.label>doberman protect gear</Doberman_Protectgear.label>
+    <Doberman_Protectgear.description>A protective suit of doberman protect gear armure and helmet.</Doberman_Protectgear.description>
+    <Doberman_Protectgear.stages.li.label>Armored</Doberman_Protectgear.stages.li.label>
 </LanguageData>

@@ -1,13 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
     <Doberkin.label>doberkin</Doberkin.label>
-    <Doberkin.description>Un humanoïde mi-humain, mi-doberman. Originaire du lointain système stellaire de Kepler 083, le doberkin est l’un des rares organismes à apparence animale à avoir évolué d’une manière comparable à l’humanité traditionnelle, jusqu’à devenir une véritable superpuissance.
-
-Les doberkins forment une race dont les qualités d’un soldat bien entraîné sont inscrites dans les gènes. Aguerris dans les conditions difficiles, dotés d’une volonté indomptable, ils sont moins enclins aux crises mentales violentes et peuvent tenir plus longtemps face à leurs ennemis grâce à leurs seules prouesses martiales.</Doberkin.description>
+    <Doberkin.description>Un humanoïde mi-humain, mi-doberman. Originaire du lointain système stellaire Kepler 083, le doberkin fait partie des rares organismes d’apparence animale à avoir évolué de manière comparable aux humains traditionnels, jusqu’à devenir une superpuissance majeure.\n\nLes Doberkins sont une race dont les qualités d’un soldat bien entraîné sont inscrites dans les gènes. Endurcis par les conditions difficiles, ils possèdent une volonté indomptable qui les rend moins susceptibles de sombrer dans des crises mentales violentes, et peuvent tenir plus longtemps face à leurs ennemis grâce à leurs seules prouesses au combat.</Doberkin.description>
     <Doberkin.descriptionShort>Le xénotype de base mi-humain, mi-doberman.</Doberkin.descriptionShort>
     <Doberkin_Alpha.label>doberkin alpha</Doberkin_Alpha.label>
-    <Doberkin_Alpha.description>Une variante rare du doberkin qui ne représente qu’environ 1 % de la population globale de la Fédération doberman. Les doberkins alpha ressemblent presque trait pour trait aux doberkins ordinaires ; leurs yeux constituent généralement la différence la plus visible. En revanche, ils leur sont très supérieurs en matière de capacités de combat innées et comptent parmi les rares individus capables d’utiliser le hurlement alpha.
-
-La majorité des élites et des individus issus des classes supérieures étaient des doberkins alpha, toujours vigilants pour diriger et guider les doberkins ordinaires au sein de la Fédération doberman.</Doberkin_Alpha.description>
+    <Doberkin_Alpha.description>Une variante unique de doberkin qui représente environ 1 % de la population totale de la Fédération doberman. Les Doberkins alpha peuvent ressembler exactement aux Doberkins ordinaires, hormis la couleur de leurs yeux, mais ils leur sont largement supérieurs en capacités innées au combat et font partie des rares individus capables d’utiliser la capacité unique de hurlement alpha.\n\nLa majorité des élites et des individus de haute classe sont des Doberkins alpha, toujours vigilants lorsqu’il s’agit de diriger et guider les Doberkins ordinaires de la Fédération doberman.</Doberkin_Alpha.description>
     <Doberkin_Alpha.descriptionShort>Une variante du xénotype mi-humain, mi-doberman.</Doberkin_Alpha.descriptionShort>
 </LanguageData>

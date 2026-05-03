@@ -3,10 +3,10 @@
     <name>BM's Races: Doberkins [FR]</name>
     <packageId>diablood.doberkin.fr</packageId>
     <author>Diablood</author>
+    <description>Traduction française du mod BM’s Races: Doberkins.</description>
     <supportedVersions>
         <li>1.6</li>
     </supportedVersions>
-    <description>Traduction française partielle pour BM's Races: Doberkins. Cette version traduit principalement les noms, intitulés, recherches, scénarios et une partie des descriptions courtes.</description>
     <modDependencies>
         <li>
             <packageId>blackmarket420.xenotype.doberkin</packageId>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Gun_DEF_Arbiter.label>DEF Arbiter</Gun_DEF_Arbiter.label>
+    <Gun_DEF_Arbiter.description>Un fusil à charge de pointe développé par les brillants esprits du département R&D de la fédération Doberman. Contrairement aux fusils à charge classiques, l'Arbiter utilise une technologie de charge avancée afin de propulser des projectiles chargés vers une cible. Cette technologie suralimente la bobine d'induction qui propulse alors la balle avec une telle force qu'elle dépasse la vitesse du son. </Gun_DEF_Arbiter.description>
+    <Gun_DEF_Arbiter.tools.li.label>poignée</Gun_DEF_Arbiter.tools.li.label>
+    <Bullet_Arbiter.label>Balle DKF Arbiter</Bullet_Arbiter.label>
+</LanguageData>

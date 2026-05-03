@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <friendlyName>Français</friendlyName>
+    <nativeName>Français</nativeName>
+    <languageWorkerClass>LanguageWorker_French</languageWorkerClass>
+</LanguageData>

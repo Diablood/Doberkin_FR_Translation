@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <WandererJoin_Doberkin.label>wanderer doberkin join</WandererJoin_Doberkin.label>
+    <WandererJoin_Doberkin.letterLabel>Wanderer doberkin joins: {PAWN_nameDef}</WandererJoin_Doberkin.letterLabel>
+    <WandererJoin_Doberkin.letterText>A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.\n\n If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}.</WandererJoin_Doberkin.letterText>
+</LanguageData>

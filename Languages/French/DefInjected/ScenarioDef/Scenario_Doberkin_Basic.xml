@@ -1,7 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
     <Doberkin_Crashlanded.label>"Scénario Doberkin" écrasé</Doberkin_Crashlanded.label>
-    <Doberkin_Crashlanded.description>Trois doberkins rescapés d'un vaisseau d'expédition écrasé tentent désormais de survivre aux conditions hostiles de la frontière.</Doberkin_Crashlanded.description>
-    <Doberkin_AspiringMercs.label>Les mercenaires ambitieux</Doberkin_AspiringMercs.label>
-    <Doberkin_AspiringMercs.description>Deux doberkins rêvant de devenir mercenaires, avec au départ une maison préconstruite, un abondant stock de rations et de fournitures, ainsi que leur propre véhicule aérien.</Doberkin_AspiringMercs.description>
+    <Doberkin_Crashlanded.description>Trois doberkins ont survécu au crash de leur vaisseau d’expédition et tentent désormais de survivre aux conditions hostiles de la Bordure.</Doberkin_Crashlanded.description>
+    <Doberkin_Crashlanded.scenario.parts.li.text>Tu n'en avais pas la moindre idée, tout s'est passé trop vite. Au début, tu travaillais d'arrache-pied aux côtés de tes compatriotes, en tant que membre d'une équipe expéditionnaire spéciale chargée de découvrir des exoplanètes habitables.
+
+Puis, tout à coup, une violente explosion a retenti depuis la coque du vaisseau. Votre vaisseau s'est dépressurisé et la plupart des membres d'équipage ont été projetés dans le vide spatial.
+
+Avec les deux autres, vous avez réussi à récupérer le matériel indispensable et vous vous êtes dirigés directement vers les capsules de sauvetage ; vous avez atterri sur un monde périphérique inconnu.</Doberkin_Crashlanded.scenario.parts.li.text>
 </LanguageData>
